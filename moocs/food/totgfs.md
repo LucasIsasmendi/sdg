@@ -3,7 +3,7 @@
 
 **Weeks**  
 [1. Introduction to the Global Food System](#1-introduction-to-the-global-food-system)  
-2. Boosting the Small
+[2. Boosting the Small](#2-boosting-the-small)  
 3. Transforming the big
 4. Losing less
 5. Eating Smarter
@@ -93,6 +93,63 @@ Why won’t new technologies alone solve the challenges in front of us? (Hints: 
 
 ### Additional material
 For a comprehensive introduction to the research that this MOOC is based upon see chapter 2.7 in the **Global Sustainable Development Report 2019**.
+
+## 2. Boosting the Small
+### Increasing know-how
+The story of our current food system begins in Nigeria, Africa. By 2050 the world has to feed an additional 2 billion people, and it is here, in Africa, that most of them will live.
+Smallholder farmers, that means farmers with only a couple of hectares of land, are key to feeding future populations. In 2030, it is expected there will be 750 million of these smallholder farmers worldwide.
+As a start, these farmers need more knowledge concerning best practice, both because the knowledge can increase output, but also because it can contribute to improved land management.
+Best practices are the small simple steps, that can make a huge impact, when looking at the overall agricultural yield of Africa. These are small skills and techniques, that farmers apply to increase the yield of their crops. It is either around the right spacing for crops, the right time to apply fertilizers or herbicides or fungicides. It is around how and where to get the right seed,
+
+### Natural nitrogen fixation
+A major challenge, facing the farmers in Africa in their daily work, is getting access to nitrogen to support plant growth.
+
+Access to nitrogen is a double-edged sword in terms of sustainable development. Too much on your soils is a bad thing, as it causes contamination of groundwater, eutrophication of freshwater and estuarine ecosystems, atmospheric pollution and soil acidification as well as soil degradation. On the flip side, too little nitrogen results in low production yields, soil nutrient mining and soil degradation. All of these consequences lead to poor human nutrition.
+
+Ken Giller has specialized in putting the plants that can fix nitrogen to use for small-scale farmers in Africa. These plants are called legumes: peas and beans. They provide protein, minerals, particularly for people in their diets.
+They are very good in terms of the fact that they fix nitrogen from the air. 
+The bacteria Rhizobium is what inyects nitrogen. So seed and bacterium needs to go togheter. By ussing legumes, smallholder farmers can boost their production with less amounts of fertilizers. Legumes are often grown with maize.
+Efficient use of nitrogen fertilizers is also important in Africa.
+
+### Better access to finance
+In Costa Rica, the major obstacle for many small- and medium-sized farms is finance. Loans and investments are important for a farmer to conduct her business. But in many rural areas, interest rates for microcredit are around 35% per year.
+
+Through public-private partnerships, public funds can be made available to support an innovative private sector, with the right experience and the knowledge to make changes in the food system.
+
+Tips:
+- tailor finance programmes to the specific needs of different farmers
+- adjust the conditions of payment, period of grace, the type of guarantee depending on the project.
+- follow up and support in the transformations that have to be made
+- create good results: better income, less environmental impact and greater social impact on the community
+
+### Sharing economy
+Hello Tractor: rent a tractor for a period of time. For farmers with average 1,8 to 3 hectares. Usually a farmer starts to get mechanized around 5 hectares, but Hello Tractor is opening up the opportunity to receive mechanization, even when you're below that level.
+Mechanization is so crucial in the crop production cycle for farmers. It has the ability to really increase and impact the yields of the farmers and their revenue in so many ways. The ability to plant 40 time faster with mechanization than manual labor. Their ability to increase up to 40% their revenue stream. And it's really, at the core, an opportunity for them to reach their potential revenue and by relying on agriculture to improve food security - because *Africa has the biggest arable land available today on Earth*.
+
+Hello Tractor depends on booking agents. These agents are specialized farmers, who speak English fluently and possess a smartphone. When a farmer wants a tractor service he goes to our booking agents. Basically, the booking agent role is to mitigate the fact, that farmers don't necessarily use Android phones and smartphones. So they place the orders on their behalf.
+
+In vast countries like Nigeria, where the population is very dispersed, demand for mechanized equipment is also very dispersed. In such cases, smartphone technology provides tremendous support to the sharing economy.
+
+### A more fair trade system
+Many innovations can boost the agricultural production of small-scale farmers. However, in order to actually transform food systems, changes in trade systems are also needed.
+Farmers in developing countries struggle when competing with subsidized products from developed countries.
+Tariffs on agricultural products are common both in North-South, and South-South trade. This makes it even more difficult for developing countries to break the patterns of trade.
+
+Fairtrade is an organisation with a label that signals that the producers and consumers have formed a partnership.
+Better knowledge and green investments are exactly what small-scale farmers need in order to sustainably boost their production.
+
+### Additional material: Agricultural Policies at a Glance
+Production-linked measures, in particular, mask market signals, harm competitiveness, and can potentially lead to environmentally-damaging production systems. Moreover, such measures can be inequitable and inefficient, as the bulk of the benefits accrue to the largest producers or leak away to unintended beneficiaries in the upstream and downstream sectors or are capitalised in the value of fixed assets. The choice of policy instruments is therefore arguably as important as the level of support.
+
+Policy effort needs to be directed to the development of a competitive, innovative agricultural sector that can respond to future needs. Agricultural policy needs to be coherent with policies in other areas – economic, social and environmental – and to reduce impediments to structural adjustment. This kind of approach will be more effective in most countries than the fine-tuning of existing agricultural policies.
+
+policy makers should:
+- Reduce the use of market price support with a view to its eventual elimination
+- Move away from the use of input subsidies:  are strongly production-distorting, and increases the risk of environmental damage from over- or misuse of farm inputs
+- Increase strategic public investments to enhance sustainable productivity growth
+- Target public policies to address specific goals and intended beneficiaries
+- Ensure that risk management policies focus on helping farmers to cope with unavoidable and unpredictable risks
+- Improve the enabling environment for a business-oriented agricultural sector.
 
 # Link Material
 **Index**
