@@ -4,12 +4,7 @@
 - [Publications and Reports of relevance for Food Systems Summit](./pr/README.md)
 - [Scientific Group Reports](./sg/README.md)
 - [Events: From educational webinars to global summits](./events/README.md)
-
-## Emoji Guide
-- 🌡️ Emotions & Feelins
-- 🤨  What Are you talking about
-- 🙄|😒  I can't believe this
-- 😡  Make me Angry
+- [Community](./community/README.md)
 
 ## 20/80 Reading Rule
 - read fast, check slow
