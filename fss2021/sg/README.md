@@ -7,7 +7,7 @@ These papers are shared to provide information and facilitate discussion for tra
 
 **Action Track Papers**:
 - ✅ [Track 1](#track-1): `Ensuring Access to Safe and Nutritious Food for All Through Transformation of Food Systems (March 2021)`
-- T2. Shift to Healthy and Sustainable Consumption Patterns (April 2021)
+- ✅ [Track 2](#track-2): `Shift to Healthy and Sustainable Consumption Patterns (April 2021)`
 - T3. Boost Nature Positive Production at Sufficient Scale (April 2021)
 - T4. Advance Equitable Livelihoods (March 2021) 
 - T5. Building Resilience to Vulnerabilities, Shocks and Stresses (March 2021)
@@ -226,3 +226,161 @@ Levers for change:
 - Capacity-building, property rights, technology development, transfer and deployment and enabling financial mechanisms across the food system can support livelihoods and increase incomes. Greater cooperation with regard to trade could overcome constraints and barriers.
 
 Safe and nutritious food for all requires a transformation of food systems, changing both supply and demand of food in differentiated ways across world regions: bridging yield gaps and improving livestock feed conversion, largely through agro-ecological practices and agroforestry, deploying at scale soil carbon sequestration and agricultural greenhouse gas abatement, reducing food losses and wastes, as well as over-nourishment and changing the diets of wealthy populations. Global food systems sustainability also requires to halt the expansion of agriculture into fragile ecosystems while restoring degraded forests, fisheries, rangelands, peatlands and wetlands.
+
+## Track 2
+**`Shift to Healthy and Sustainable Consumption Patterns (April 2021)`**
+
+Action Track 2 works to catalyse a shift in consumer behaviour that will create and build demand for sustainably produced agri‐ and ocean food products, strengthen shorter value chains, promote circular use of food resources, helping to reduce waste and improve nutrition, especially among the most vulnerable.
+
+This Action Track recognises that current food consumption patterns, often characterised by higher levels of food waste and a transition in diets towards higher energy, more resource‐intensive foods, need to be transformed. 
+
+By increasing food availability, lowering prices and increasing quality standards, they have also induced greater food waste at the consumer end. 
+
+In addition, the risk of fast transmission of food‐borne disease, antimicrobial resistance and food‐related health risks throughout the food chain has increased, and the ecological footprint of the global food system continues to grow in terms of energy, resource use, and impact on climate change. 
+
+Achieving healthy diets from sustainable food systems is complex and requires a multi‐pronged approach. Actions necessary include awareness‐raising, behaviour change interventions in food environments, food education, strengthened urban‐rural linkages, improved product design, investments in food system innovations, public private partnerships, public procurement, and separate collection enabling alternative uses of food waste can all contribute to this transition.
+
+### 1. Introduction
+Action Track 2 recognises that current food usage patterns, often characterised by high levels of food loss and waste, a high prevalence of the consumption of diets high in energy, and the production of natural resource‐intensive foods, need to be transformed to protect both people and the planet.
+
+### 2. Building the evidence on healthy diets
+A healthy diet is health‐promoting and disease‐preventing. It provides adequacy without excess, of nutrients and health promoting substances from nutritious foods and avoids the consumption of health‐harming substances.
+It must supply adequate calories for energy balance, and include a wide variety of high quality and safe foods across a diversity of food groups to provide the various macronutrients, micronutrients and other food components needed to lead an active and healthy and enjoyable life.
+
+Consumer demand, availability, affordability and accessibility are important drivers of dietary patterns. It is essential that these four aspects are considered simultaneously when pursuing dietary shifts/
+
+National food-based dietary guidelines provide context-specific advice and principles on healthy diets and lifestyles, which are rooted on sound evidence, and respond to a country’s public health and nutrition priorities, food production and consumption patterns, sociocultural influences, food composition data, and accessibility, among other factors.
+
+However, there can be wide variation in inclusion of and recommendations for other foods. Only 17% of food based dietary guidelines make specific recommendations about quantities of meat/egg/poultry/animal source food to consume (20% make specific recommendations about fish), and only three countries (Finland, Sweden and Greece) make specific quantitative recommendations to limit red meat. Only around a quarter of food based dietary guidelines recommend limiting consumption of ultra‐processed foods, yet this is emerging as one of the most significant dietary challenges around the world.
+
+Adherence with national food based dietary guidelines and recommendations around the world is low.
+No regions globally have an average intake of fruits, whole grains, or nuts and seeds in line with recommendations and only central Asia meets the recommendations for vegetables. In contrast, the global (and several regional) average intake of red meat, processed meat and sugar‐sweetened beverages exceeds recommended limits.
+
+###  3. Building the evidence on healthy diets from sustainable food systems
+First and foremost, we need evidence on actual food consumption to consider shifts to dietary patterns that promote all dimensions of individuals’ health and wellbeing; have low levels of environmental pressure and impact; are accessible, safe and equitable; and are culturally acceptable.
+Considering current environmental challenges, transitioning to food systems that can enhance natural ecosystems, rather than just sustain them, may be desirable.
+- 📓 Sustainable healthy diets
+
+The conceptual transition from healthy diets to healthy diets from sustainable food systems was mediated by recent studies linking food availability patterns, and projections, to non‐communicable disease health consequences, and the environmental impacts of food production. The most recent set of studies is embodied in the work of the EAT‐Lancet Commission on healthy diets from sustainable food systems.
+These dietary recommendations diverge from most food based dietary guidelines, and often have lower ranges of inclusion of animal‐sourced foods. The authors then used six environmental dimensions of importance to planetary health and earth system processes (greenhouse gas emissions, cropland use, water use, nitrogen and phosphorus use and biodiversity), using the planetary boundaries concept, as boundary conditions for achieving a healthy diet from a sustainable food system.
+  - 📓 Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems
+  - 📋 A safe operating space for humanity
+
+Flexitarian diets that allow for diversity of consumption options, including moderate meat consumption, would significantly reduce environmental impacts compared to baseline scenarios reflecting current consumption patterns.
+
+The increases in fruits, nuts and vegetables needed more land, water and fertilisers, and therefore increases in productivity of cereals and legumes to bridge yield gaps by close to 75%, and reductions in waste of 50% would be needed for achieving the diets within all sustainability constraints.
+
+The environmental footprint of foods, however, is strongly dependent on where foods are produced and how they are produced leaving significant room for innovation and improvement. Moreover, the adoption of any of the four alternative healthy diet patterns (flexitarian, pescatarian, vegetarian and the vegan diet) could potentially contribute to significant reductions of the social cost of greenhouse gas emissions, ranging from USD 0.8 to 1.3 trillion (50–74 percent).
+
+Transitions towards healthy diets, let alone sustainable consumption are critical contributors to achieving climate stability, and halting the rampant loss of biodiversity. Combined actions on securing habitat for biodiversity, improving production practices, and better consumption would allow for halting biodiversity loss and bending the curve towards restoration by 2030.
+
+There is also a financial case for shifting to healthy diets from sustainable food systems. There are hidden costs of our dietary patterns and of the food systems supporting them and two of the most important are the health (projected to exceed USD 1.3 trillion per year by 2030)‐ and climate‐related (projected to exceed USD 1.7 trillion per year by 2030) costs that the world incurs.
+
+Shifting to healthy diets that include sustainability considerations would lead to an estimated reduction of up to 97 percent in direct and indirect health costs and reduce the social cost of greenhouse gas emissions by an estimated 41–74 percent in 2030.
+
+The Global Nutrition Report 2020 demonstrated that of the 143 countries with comparable data, 124 have double or triple burden meaning that micronutrient deficiency is still prevalence in many developed countries demonstrating high levels of overweight/obesity.
+In countries where the food system also drives the rural economy, care must be taken to mitigate the potential negative impacts on incomes and livelihoods as food systems transform to deliver affordable healthy diets.
+
+Fish and fish products have one of the most eco‐efficient production profiles of all animal proteins.
+Under optimistic projections, the ocean could produce up to six times more food than it does today—and it could do so with a low environmental footprint.
+
+### 4. Transitioning to healthy diets from sustainable food systems
+The evidence is abundantly clear, without shifts in consumption patterns towards health and sustainability we will fail to achieve multiple SDGs, we will fail to achieve the Paris Climate Agreement, the post 2020 biodiversity goals and we will lose the opportunity to reposition food to improve health and regenerate the environment.
+Achieving these transitions and managing the trade‐offs and synergies will require additional attention to many facets of food systems, including:
+- **Food environments**: the consumption of healthy diets from sustainable food sources is dependent on sustainably produced healthy dietary items being available, affordable and accessible in different outlets. The cost drivers of these diets are throughout the food supply chain, within the food environment, and in the political economy that shapes trade, public expenditure and investment policies
+  - Policies that more generally foster behavioural change towards healthy diets will also be needed.
+  - A critical challenge is the tremendous perishability of fruits and vegetables, particularly in tropical climates
+  - In both urban and rural areas, the lack of physical access to food markets, especially to fresh fruit and vegetable markets, represents a formidable barrier to accessing a healthy diet, especially for the poor.
+- **Addressing food safety issues across value chains**: Food safety is positioned at the intersection of agri‐food systems and health
+  - Food safety across the value chains is to be ensured along all stages until consumption (from producers to processors, retailers and consumers)
+  - Consumer behaviour at households in storing (temperature) and handling foods (cross contamination) impacts strongly on the onset of food borne intoxications.
+  - The riskiest foods for biological hazards are livestock products followed by fish, fresh vegetables and fruit
+  - Food safety management systems are designed to prevent, reduce or eliminate hazards along the food chain
+  - Food safety control at primary production is achieved using good general hygiene practices.
+  - Transitions to circular food systems, local food systems, or short circuit systems are often slowed or hampered by current food safety regulations.
+  - FOA and WHO established the Codex Alimentarius Commission to address safety and nutritional quality of foods and develop international standards to promote trade among countries.
+  - While metrics are considered key to monitoring and improving performance, they can also have unintended consequences and hard to implement, like traceability.
+- **Local producers and value chains, income and land inequality**: for many consumers, local production is the main supplier of nutritious food and the primary provider of economic activity. The  transition to sustainable consumption requires support and value chain creation for linking food systems actors
+  - It is important to provide support and transition options for potential losers impacted by the required changes to food systems
+  - cities are playing more active roles in the development of city region food systems
+  - Vertical farming could provide opportunities for increasing food production in urban areas
+- **The role of trade in open and closed economies**:
+  - Trade is an essential instrument in the food system, but it is not always geared towards sustainable consumption
+  - trade in cheaper, ultra‐processed food with long shelf lives competes with healthy dietary items
+  - removing trade protection across Central America would reduce the cost of nutritious diets by as much as 9% on average 
+  - The efficiency of internal trade and marketing mechanisms is also important as these are key to reducing the cost of food to consumers and avoiding disincentives to the local production of nutritious foods.
+- **The political economy of food**: While some large food companies are interested in opportunities for increasing their environmental sustainability, financial interests often prevail over sustainability concerns.
+- **Modifying behavioural changes**:
+  - Providing nutritional information was found to change the behaviour of consumers already interested in nutrition but was not able to influence consumers with low interest in nutrition.
+  - Educational activities are more effective when used in in conjunction with environmental modifications, such as increasing the availability and accessibility of healthy dietary items
+  - Altering food availability options can enhance healthy diets
+  - the provision of financial incentives to make healthy diets more affordable has been shown to increase consumption of fruits and vegetables
+  - Taxes and front‐of‐pack information labels have been used with success to moderate the purchase of unhealthy dietary items, as well as influence reformulation of unhealthy products
+  - taxation and subsidy intervention influenced dietary behaviours to a moderate degree, they should be a minimum of 10 to 15% and should both be implemented to improve success and effect
+- **Reducing food loss and waste and embracing circularity**: In low‐ and middle‐income countries, these losses occur mostly at the pre‐consumer stage due to harvest and storage losses while in OECD countries they are more significant at the consumption stage (dates)
+  - Circular food systems have been suggested as a mechanism for reutilising these biomass streams
+
+### 5. The key trade‐offs and synergies
+The possibility of engaging in triple‐win actions linking health, consumption and the environment presents a real opportunity to achieve numerous global commitments simultaneously, which could be desirable from a policy perspective (SDGs 1, 2, 3, 6, 8, 12‐16).
+While potentially these synergies could lead to human and planetary wellbeing, their achievement could also yield significant trade‐offs that will require resolution. Some of these are related to the following dimensions:
+- **Multiple environmental trade‐offs**: reductions in the demand for animal‐sourced foods could lead to reduced greenhouse gas emissions. It is only when consumption is modified, waste is reduced, and productivity increased that improvements across all environmental metrics are obtained.
+- **Trade‐offs with affordability and availability**: the cheapest healthy diet costs 60 percent more than diets that only meet the requirements for essential nutrients. EAT‐Lancet diet are not affordable for an estimated 1.5 billion people. Healthy diets are unaffordable for more than 3 billion poor people in low‐, middle‐ and high‐income countries. In many cases, production of key dietary components does not meet the required demand, even at global level, and therefore their prices are high. Low market access (food desert: area with poor access to a retail outlet with fresh produce) can be a large barrier to achieving a healthy diet. Vertical farming may provide opportunities for food production in the future (after economic feasibility, codes, regulations and shared expertise)
+- **Trade‐offs with pandemics and zoonosis**: In contexts where animal‐sourced food consumption is critical for maintaining appropriate intake of essential nutrients, it is vitally important to scale up a ONE HEALTH approach that enables environmental, animal, and human health. Today, the largest food source attributions in food borne intoxications is from food of animal origin in the developed world. Antimicrobial resistance contributes significantly to the burden of disease across the globe and constitutes a threat to public health.
+- **Political economy trade‐offs**: Maintaining the status quo benefits the current actors of the food system, hence the inertia for change. The current system rewards economic efficiency rather than sustainability and the production of nutrition foods. Large private companies have a disproportionate control on the food agenda.
+
+### 6. Solutions and actions
+Solutions to enable the shift towards more sustainable consumption need to be defined around cross cutting levers connecting policy reform, coordinated investment, accessible financing, innovation, traditional knowledge, governance, data and evidence, and empowerment.
+It is important to identify and learn from the success stories of individuals and groups that have shifted to healthy diets from sustainable food systems and to use these examples to clearly inform policymakers, practitioners and the public.
+
+Range of critical actions necessary to effectively create transition towards healthy and sustainable diets:
+  - 📗 Global Panel on Agriculture and Food Systems for Nutrition (Foresight-2.0)
+- **Availability**: make sufficient nutrient-rich and staple foods available to all, produced sustainably
+- **Accessibility**: ensure foods move along value chains more efficiently, improving accessibility and resulting in lower cost and less loss
+- **Affordability**: ensure sustainable, healthy diets are affordable to all, with lower demand for ultra-processed products
+- **Desirability**: empower consumers to make more informed food choices, fueling rising demand for sustainable, healthy diets
+
+broader set of actions for implementation in different contexts:
+- **Economic and structural costs**: associated with the transition to more healthy and sustainable diets.
+  - Policies and investments across food supply chains
+  - support and transition options for potential losers
+  - Direct funding towards a healthy and sustainable food system
+  - Facilitate easier access to loans
+  - Piloting and scaling behaviour change interventions
+  - Investing in innovative food related infrastructure and logistical systems
+  - Break existing policy silos to facilitate food system transformations
+- **Challenge the current political economy**:
+  - penalization or taxes to encourage large food system actors to transition to the provision of healthy diets
+  - incentives towards nutritious foods like fruits and vegetables
+  - Promote social and environmental aspects of corporate performance to be equal to financial performance
+  - limit the sale and production of unhealthy products
+  - global regulatory to favour healthy diets from sustainable food systems
+  - Promote divestment to avoid harm. This includes exclusion of certain companies from investment portfolios.
+  - corporate responsibility investigate the level of sustainability of products
+  - Encourage social impact investing
+  - Empower consumers to demand for healthy, sustainable products and reject unhealthy products.
+  - Encourage consumers to demand increased accountability for large food system actors.
+  - Public institutions transition to healthier diets
+  - 
+- **Influencing consumer demand**: 
+  - Define principles of engagement between public and private sectors
+  - Upgrade and improve food based dietary guidelines and promote enhanced knowledge about implication of dietary choices.
+  - Improve regulation of advertising and marketing (ineffectiveness of businesses self‐regulating).
+  - Implement behavioural nudges via carefully designed taxes and subsidises
+- **Education and cultural norms**: will be pivotal in changing consumption patterns
+- **Equity and social justice**: 
+  - The systematic use of full supply chain traceability has been shown to promote internal transparency. This could potentially be a way to promote social justice
+  - Deploy safety nets to protect the poor against dynamic food systems transition
+- **Governance and decision support tools**:
+  - Invest in addition to knowledge, skills and data and tools needed to identify, prioritize and manage trade‐offs and competing priorities.
+  - Establish standardisation and clear labelling.
+  - Develop tools for measuring consumer and retail food waste at national level, to understand the scale of the problem, identify hotspots for targeted action, and track progress towards SDG 12.3.
+  - Increased adherence to principles of circular economy recycling and repurposing food waste becomes the norm.
+  - Rationalizing food related sustainability standards.
+
+
+
+### Conclusions
+A shift towards sustainable consumption patterns is necessary to harmonise global societal and environmental goals and for humanity to prosper sustainably and equitably in the coming years.
+Transitioning towards healthy diets from sustainable food systems at the country‐ level is essential to achieve this, together with strategies for managing waste reduction and increase productivity.
+
+The role of science and innovation will be essential for deploying these interventions at scale and at low costs, and for minimising the potential trade‐offs arising. Transparent multi‐stakeholder dialogues will be key at all stages of planning the appropriate transition pathways towards our desired global goals of healthy food, healthy ecosystems and prosperity for all.
