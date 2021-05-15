@@ -8,7 +8,7 @@ These papers are shared to provide information and facilitate discussion for tra
 **Action Track Papers**:
 - ✅ [Track 1](#track-1): `Ensuring Access to Safe and Nutritious Food for All Through Transformation of Food Systems (March 2021)`
 - ✅ [Track 2](#track-2): `Shift to Healthy and Sustainable Consumption Patterns (April 2021)`
-- T3. Boost Nature Positive Production at Sufficient Scale (April 2021)
+- ✅ [Track 3](#track-3): `Boost Nature Positive Production at Sufficient Scale (April 2021)`
 - T4. Advance Equitable Livelihoods (March 2021) 
 - T5. Building Resilience to Vulnerabilities, Shocks and Stresses (March 2021)
 
@@ -384,3 +384,83 @@ A shift towards sustainable consumption patterns is necessary to harmonise globa
 Transitioning towards healthy diets from sustainable food systems at the country‐ level is essential to achieve this, together with strategies for managing waste reduction and increase productivity.
 
 The role of science and innovation will be essential for deploying these interventions at scale and at low costs, and for minimising the potential trade‐offs arising. Transparent multi‐stakeholder dialogues will be key at all stages of planning the appropriate transition pathways towards our desired global goals of healthy food, healthy ecosystems and prosperity for all.
+
+## Track 3
+**`Boost Nature Positive Production at Sufficient Scale (April 2021)`**  
+The overall goal of Action Track 3 is to reconcile the need for the production system to meet the demands from growing populations and rising prosperity with the necessity of restoring the environment, improving the quality of soil, conserving biodiversity, and sustainably managing land, water and other natural resources. 
+
+The strategy is to protect, manage and restore ecosystems: to "produce more from less" and set aside some land and water for nature. In this context, action at the landscape scale is key. Landscapes are where these actors and innovations come together. Nature-positive landscape-level interventions include system-based conservation agriculture, agroforestry, river basin management, bio-inputs, integrated soil fertility management, soil and water conservation and nutrient recycling. 
+
+In particular, maintaining trees in landscapes, avoiding deforestation and promoting landscape restoration are critically important for protecting the soils, water resources and environmental services essential for sustaining production at multiple scales from regional to global. 
+
+**Definition**: 
+`Nature-positive food systems` are characterized by a regenerative, non-depleting and non-destructive use of natural resources. It is based on stewardship of the environment and biodiversity as the foundation of critical ecosystem services, including carbon sequestration and soil, water, and climate regulation. Nature Positive Food Systems refer to protection, sustainable management and restoration of productive system. Finally, nature positive food systems cover the growing demand for food in a sufficient way and include sustainable and healthy nutrition.
+
+### 1. Introduction
+This paper provides a high-level overview of evidence in favour of nature-positive food systems, discussing opportunities and challenges associated with sustainable, efficient agricultural production with a view to concrete policy suggestions. The aim is to present these complex issues comprehensibly and impartially, so that proposed actions are science-based, solution- oriented, applicable, and restorative; balancing trade-offs and optimizing available synergies.
+
+### 2. What do we want to achieve?
+The primary objective of FSS 2021 is to achieve multiple SDGs by internationally coordinated actions across the food system chain (production, distribution, and consumption). More concretely, the overall goal is to provide healthy and nutritious food to all people, while creating livelihood opportunities and reducing the negative environmental, climate, and health impacts associated with food systems. 
+
+Elements of agroecology that must be integrated to a comprehensive approach in nature-positive food systems:
+- Diversification and resource use efficiency
+- Increased resource efficiency: more with less
+- Leverage natural synergies
+- Recycling and minimising waste 
+- resilience through diversification
+- share knowledge and co-create solutions
+- human and social values
+- Supporting innovation for circular and solidarity economies within the planetary boundaries and reconnecting producers and consumers as the basis for inclusive and sustainable development.
+
+### 3. What do we mean by Nature-Positive Food Systems?
+Nature-positive food systems globally meet the fundamental human right to healthy food, while operating within planetary boundaries that limit the natural resources available for a sustainable exploitation
+
+Scientific targets for six key Earth system processes and the control variables used to quantify the planetary boundaries:
+- Climate change: Greenhouse-gas (CH4 and N2O) emissions
+- Nitrogen cycling: Nitrogen application
+- Phosphorus cycling: Phosphorus application
+- Freshwater use: Consumptive water use
+- Biodiversity loss: Extinction rate
+- Land-system change: Cropland use
+
+Nature-based Solutions (NbS) is based on three pillars:
+1. **Protect**: natural systems and protected areas from new conversions for food production and save and set aside some land and water back to nature
+2. **Sustainably manage**: of existing food production systems in a regenerative, non-depleting, and non-destructive use of natural resources
+3. **Restore**: and rehabilitate degraded systems for sustainable food production and ecosystem services
+
+- Nature-positive production hinges upon circular bioeconomy, in which local and regional integration of production, consumption and the use of all residues are integrated and balanced.
+- Many rural settlements in Asia and Africa have sustained their productive landscapes for centuries: for example, “satoyama” in Japan
+- One-third of global land area is degraded
+- Ideal results typically result when scientific knowledge and traditional knowledge cooperate in the production of "wise" approaches to nature-positive production. 
+
+### 4. Challenges of nature-positive food systems
+The transition to nature-positive food systems is slowed or made impossible by numerous agronomic, economic and social challenges, which are compounded by deficits in knowledge systems.
+1. **Agronomic**
+  - Yield reductions related with nature-positive production: The trade- off between high yields and biodiversity-rich, non-commodity ecosystems services such as soil nutrient cycling, soil carbon sequestration, pollination and indirect pest control, is the greatest challenge of the present.
+2. **Economic**
+  - Higher labour demand: serious constraint when manual labour cannot be substituted by mechanized labour.
+  - Higher transaction costs: due to diversification of products and market risk
+  - Failed valorisation of sustainability throughout the value chain: cheap food continues to be purchased predominantly. A major challenge is that monocropping of calory-dense food commodities offers large scale-economies and lower unit-costs, as opposed to the more diversified production of a portfolio of food commodities needed for a healthy diet.
+3. **Political**
+   - Policy incoherence: especially agriculture, environmental, health, trade and science/education policies
+4. **Deficits along the agricultural knowledge systems**
+   - Weak knowledge and advisory systems: A systems-oriented, transdisciplinary, and long-term field research approach is clearly lacking. Therefore, there is a disconnect in the knowledge and advisory systems required to support nature-positive food systems and build the capacity of actors.
+
+### 5. Call for Actions to successfully cope with trade-offs and to scaling up nature-positive food systems
+There are several structural lock-ins that keep the current unsustainable food production system in place. These create a set of feedback loops that reinforce this system and include investments and policies that create path dependency (such as purchasing of expensive equipment or subsidies for chemical pesticides); export orientation; the expectation of cheap food; compartmentalized and sectoral, short-term thinking; certain discourses about feeding the world, focused solely on production volumes and measures of success (looking at single crops).
+
+Other typical lock-ins that reinforce the current system are the concentration of power in the food chain and institutional, agricultural research and technological lock-ins.
+
+Therefore, a systematic change towards nature-positive food systems requires a fundamental reorientation of many societal actors and a realignment of the cooperation between them. The inclusion of local actors, particularly of the most vulnerable voices, in decision-making will lead to more effective solutions. 
+
+The seven calls for action can provide guidance to ensure an integrated, systemic approach:
+1. **Increase policy coherence and strengthen adequate governance**: go beyond incentives such as income-oriented subsidies or those for particular inputs or unspecific marketing actions. The decisive level in fostering transition is the landscape. Implement payments for ecosystem services and incentives to invest in sustainability.
+2. **Improve sustainable soil management**: land degradation neutrality. By restoration of degraded soils and adoption of nutrition-sensitive agriculture will also improve human health and wellbeing. Nature positive production implies adaptation to climate change, protection and enhancement of soil health and food security. This can be achieved through bioeconomy strategies with the approach of integrated cycles in whole value chains
+3. **Boost knowledge and innovation for nature-positive food systems**: 2050 demand for food requires a broad ecological, social and technological innovation strategy. Ecological innovations or optimizations are driven by biodiversity and ecosystem functions. Social innovations include those in the socio-economic space. Technological innovations encompass digitalisation. Measures adopted locally are the most suited to their specific conditions and cultures. Produce more food and fewer negative externalities.
+4. **Adapt and intensify the knowledge sharing of farmers, farm advisors and farm teachers**: The scientific knowledge is tremendous, but its integration with the knowledge of farmers, consumers and citizen remains vastly unsatisfactory.  As nature-positive production requires complex decisions, coping with uncertainties and trade-offs, as well as taking higher risks of failures, inter- and transdisciplinary research is a prerequisite.
+5. **Strengthen information for citizen on sustainable nutrition and food diets**: The development and scaling-up of nature positive production is dependent on the transition to sustainable consumption and more plant-based diets.
+6. **Empower rural areas by cross-farm co-operations and through high local value creation**
+7. **Improve access to land, water and biodiversity especially for women**
+
+### 6. Conclusions
+Food systems across the world are driving habitat and biodiversity loss, land and water degradation, and greenhouse gas emissions. These phenomena, in turn, undermine theproductivity, sustainability and resilience of food systems. This vicious circle can be broken if we take several fundamental steps to realign our food, feed and fiber production to achieve nature-positive agricultural production at scale. 
