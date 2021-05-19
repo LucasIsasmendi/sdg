@@ -5,7 +5,7 @@
 [1. Introduction to the Global Food System](#1-introduction-to-the-global-food-system)  
 [2. Boosting the Small](#2-boosting-the-small)  
 [3. Transforming the big](#3-transforming-the-big)  
-4. Losing less  
+[4. Losing less](#4-losing-less)    
 5. Eating Smarter  
 6. Conclusion: What does transformation really mean?
 
@@ -266,6 +266,87 @@ The FAO definition for arable land is land under temporary agricultural crops (m
 The same source defines permanent crops as follows: ‘Permanent crops are divided into temporary and permanent crops. Permanent crops are sown or planted once, and then occupy the land for some years and need not be replanted after each annual harvest, such as cocoa, coffee and rubber. This category includes flowering shrubs, fruit trees, nut trees and vines, but excludes trees grown for wood or timber. And again from the same source the definition for permanent meadows and pastures is ‘land used permanently (five years or more) to grow herbaceous forage crops, either cultivated or growing wild (wild prairie or grazing land).’
 
 The FAO definition for fallow land is ‘the cultivated land that is not seeded for one or more growing seasons. The maximum idle period is usually less than five years.’
+
+## 4. Losing less
+- Explain why we don’t necessarily have to produce 50% more food globally in 2050 to feed the larger population
+- Describe where food is lost and wasted across the value chain
+
+### Transport and storage
+Often, when considering how the world can feed the nine to ten billion people we expect to be here in 2050, we hear that we will need to increase our global food production by 50%. This statistic is repeated regularly by big agro-businesses, as they seek to justify an ever expanding growth and production. While the challenge is clear, the narrative that 'we must feed the world', wrongly legitimizes current production practices. The narrative fails to address the fact, that feeding a world population of nine to ten billion, is also a question of the distribution of production and consumption - a matter of ensuring access of nutritional foods to all. Today, half of the commercial seed market is controlled by three companies. Four firms control up to 90% of the global grain trade. And seven companies control 100% of fertilizer sales.
+
+Big scale advantages are arguably good for increasing production, but they can also be problematic with respect to the challenge of ensuring access to nutritional foods for all.
+Food production today is already high, but one-third of all food produced is either lost or wasted. To put this in economic terms, food loss and waste causes as much as 940 billion dollars of economic losses every year.
+Losing less is key to meeting the demands of a growing population, while turning our production in a more sustainable direction.
+Food loss and waste is a global issue, but while it is present in all parts of the world, the concrete challenges are regionally specific. In Nigeria, Nnaemeka Ikegwuonu describes how better transportation and storage is vital: ColdHubs is one of Nnaemekas companies, and they are working in a simple, but effective way to limit food loss with 100% solar-powered working cold rooms situated in farms and market places. The goal is to use them to store food for as much as 21 days
+
+### Connecting producers and consumers
+The issue of food loss is not just a question of technological advancement but also improvement of the connection between producers and consumers. In Costa Rica, the government is very aware of strengthening this connection as some commodities today suffer from value chains with up to seven links between producer and consumer.
+
+Roberto Azofeifa, the director of Sustainable Production at the Ministry of Agriculture, shows what kind of concrete initiatives the government promotes and supports Fairs
+- the producers are not limited to selling products which fit a set of exogenous standards.
+- When facing the producers themselves, the consumers can also get a better understanding of the product, which may lead them to respect it more and to reduce food waste in the household.
+- The prices at the agricultural fairs, are set in relation to the alternative vendors, and their prices during the week, however here it is very possible, that people with fewer economic ressources can buy foods at low prices, because at the end of the day the producers want to sell all the foods, that they have brought to the market.
+
+In supermarkets and stores in Europe, prices do not normally fluctuate in the same way during the course of a day. Combined with the fact that consumers value a large freedom of choice when it comes to products many stores have to throw out massive amounts of unsold food at the end of the day. The people and company behind the app Too Good To Go have decided to confront this challenge. It connects consumers with stores that have surplus food at the end of the day.
+
+In Denmark alone, 700 thousand tons of food are thrown out every year. Only 23% of the food waste happens at the retail link however.
+Therefore Too Good To Go is expanding beyond just being an app and building the organization on four pillars: producers, consumers, education and politics. 
+Around 37% of all the food that is thrown out, that happens in people's homes, so when consumers are part of the Too Good To Go environment, we get a chance to communicate to them about food waste and why it's such a big problem.
+
+The different pillars show how vital it is to combine different levers to instigate change. Transformation requires that technological progress be combined not only with better finance and behavioral change, but also better policies.
+
+One of the political issues that we would really like to tackle and that we've have had some success with both in Denmark and in France is the problem of date labeling.
+Basically people mistake the two date labels 'best before' and 'use by' and think they mean the same thing. That means that people just throw out the food whenever it reaches its 'best before'. 10% of food that is just thrown out. 
+
+### Resilience
+Regardless of the regional setting, there are ways to improve food use practices and limit the waste of food. With respect to lost production, however, the impacts of climate change represent a new and increasing mega-challenge for farmers around the world.
+
+These impacts include increases in temperatures, changing rain patterns and more extreme weather events such as drought, heavy rain and heat waves. For smallholder and middle-scale farmers to deal with these impacts, greater resilience of their operations in the face of climate change is needed.
+
+In Costa Rica, one way to achieve greater resilience is through agroforestry. At EARTH University in Costa Rica, they are doing agroforestry themselves in order to get experience that they can pass on to local farmers who want to make the change from traditional agriculture. Their scientists lead the work in the field.
+
+In agroforestry, diversity of crops including different tree species and sorts is, of course, important.
+As far as the benefits of agroforestry systems goes we can divide them into two views an economic and ecological one. Economically, we have the producers or people, who work in agroforestry systems, who can diversify crops, and in short medium and long term, have cash flow. Ecologically, the issue of diversity is very important today, especially in regards to the lowland here in Costa Rica. Moreover, the sustainable management of soils, in this case practices that are eco-friendly, and that somehow allow the internal cycle that gives a new level of transformations, like the transformation of organic matter, that can become more eco-friendly.
+With respect to climate action, agroforestry helps bind CO2 from the atmosphere.
+Introducing components of different commercial lines, like annual, perennial and shrubby components, allow the recycling process of organic matter as it is activated in the soil through microorganisms as well.
+
+Agroforestry and agroecology both aim at producing crops in a manner that is more reminiscent of nature than is the case with the intensive farming of mono-cultures. They are not, however, just a matter of crop diversity. Central to both agroforestry and agroecology are resource recycling, general efficiency and the co-creation and sharing of knowledge.
+
+Especially, when taking into account the role of biodiversity, as a buffer against environmental and economic risks. Agroecology systems have been shown to have a higher production than industrial monoculture in scenarios of high climate stress. For example, a study of 180 communities of smallholders in Nicaragua after Hurricane Mitch found that farms with agroecological practices on average retained 40% more topsoil than conventional farms. These practices included use of green manure, crop rotation and integration of natural elements such as stubble, ditches, terraces, barriers, mulch, legumes and trees.
+
+Biodiversity also often plays a key role in delivering resilience as it acts as a buffer against environmental and economic risks.
+
+To increase overall resilience of food production, climate change adaptation of farming practices is not enough. Providing farmers with insurance, not just on the food they have already produced, but also on their farm as a whole, is also important.
+
+In this way, reduction of food waste and loss is not only about improving storage, transportation and connection between producers, vendors and consumers, but also about strengthening resilience among the farmers.
+
+### Additional material: From Uniformity to Diversity
+A paradigm shift from industrial agriculture to diversifed agroecological systems
+
+Section 1.C: Conclusions on the outcomes of specialized industrial agriculture and diversified agroecological systems
+
+Industrial agriculture shapes and is shaped by industrial food systems.
+Industrial agriculture does not and cannot reconcile the multiple concerns of sustainable food systems. Food and farming systems can be reformed, but only by moving away from an industrial orientation and organization.
+
+Diversified agroecological systems can provide that fundamental reorientation in a way that improves multiple outcomes.
+The evidence in regard to the environmental benefits of these systems is overwhelming, from increases in wild biodiversity to the improvement of soil health and fertility and water retention. In particular, the capacity of diversified agroecological systems to restore degraded land and to keep carbon in the ground is unparalleled by any other options on the table.
+
+Land may theoretically be ‘spared’ in industrial agricultural systems. However, the environmental benefits of such a trend are highly speculative (particulary the decline in pollinators).
+
+> it is the reintegration of agriculture with healthy ecosystems and sustainable land management that holds the key to a range of other positive outcomes, from strong and stable outputs to secure farm livelihoods
+
+More evidence is required on whether and to what extent diversified agroecological systems can improve farm working conditions.
+It will be important to consider the alternative forms of workplace improvement offered by diversified agroecological systems – or to acknowledge potential trade-offs on this front.
+
+There are limits in using organic agriculture as a proxy for fully diversified agroecological systems.
+The picture is particularly complex in terms of food security at the macro-level, given the different ways of measuring it, and the highly divergent pathways to achieving it; diversified systems produce diverse and changing outputs, making it difficult to make meaningful projections in terms of net availability of specific crops.
+
+The tendency to frame food security in terms of ‘feeding the world’ is itself a reflection of the systemic and self-reinforcing logic running through industrial food systems – and does not necessarily reflect what matters in terms of improving the lives of the food insecure.
+
+The capacity of agroecological systems  has not yet had the chance to prove itself on a larger scale. They are swimming against the tide, qith little support and funding. The experimental, decentralized, knowledge-intensive nature of agroecological developments suggests that the positive impacts already observed are only just the beginning.
+
+Additional research is also required on the process of transition itself (specially from industrialized cereal monocultures). These unknowns should not hold back the case for change, there may be no greater risk than sticking with industrial agriculture and the systematic problems it generates.
+  - 🔬 IPES-Food, forthcoming
 
 # Link Material
 **Index**
