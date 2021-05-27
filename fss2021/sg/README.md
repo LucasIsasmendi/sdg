@@ -9,7 +9,7 @@ These papers are shared to provide information and facilitate discussion for tra
 - ✅ [Track 1](#track-1): `Ensuring Access to Safe and Nutritious Food for All Through Transformation of Food Systems (March 2021)`
 - ✅ [Track 2](#track-2): `Shift to Healthy and Sustainable Consumption Patterns (April 2021)`
 - ✅ [Track 3](#track-3): `Boost Nature Positive Production at Sufficient Scale (April 2021)`
-- T4. Advance Equitable Livelihoods (March 2021) 
+- ✅ [Track 4](#track-4): `Advance Equitable Livelihoods (March 2021)`
 - T5. Building Resilience to Vulnerabilities, Shocks and Stresses (March 2021)
 
 ## Healthy diet: A definition for the United Nations Food Systems Summit 2021 (March 2021)
@@ -38,7 +38,7 @@ While conceptually simple, there is no straightforward, universally accepted app
 - **Imperfect knowledge of the nutrient and “anti-nutrient” content of food**: Fortunately, this issue is well recognized and substantial advances have been made through the efforts of the INFOODS project of FAO (🔬)
   - 📓: Global Dietary Surveillance: Data Gaps and Challenges
   - 🗄️: [International Network of Food Data Systems (INFOODS)-FAO](http://www.fao.org/infoods/infoods/tables-and-databases/faoinfoods-databases/en/)
-- **Lack of consensus and standardized definitions related to food processing and health implications**: A growing body of evidence suggests that highly processed foods (or ultra- processed foods) are human health-harming. Recent studies have also highlighted the impact of such foods on the environment. Urgent consensus is needed on how to classify such foods, define food processing categories and operationalize the implications for the private sector. 32-36
+- **Lack of consensus and standardized definitions related to food processing and health implications**: A growing body of evidence suggests that highly processed foods (or ultra- processed foods) are human health-harming. Recent studies have also highlighted the impact of such foods on the environment. Urgent consensus is needed on how to classify such foods, define food processing categories and operationalize the implications for the private sector.
   - 📗: The neglected environmental impacts of ultra-processed foods
   - 📃: Ultra-processed foods: what they are and how to identify them
   - 📃: The UN Decade of Nutrition, the NOVA food classification and the trouble with ultra-processing
@@ -47,7 +47,7 @@ While conceptually simple, there is no straightforward, universally accepted app
 #### Bringing safety to the definition of healthy diets:
 Food safety refers to “all those hazards, whether chronic or acute, that may make food injurious to the health of the consumer”
 The FERG/WHO report quantified the burden of disease from the most critical food borne toxins (aflatoxin, cassava cyanide and dioxins).
-Some work has also been done to estimate the burden of illness due to four food-borne metals (arsenic, cadmium, lead, methylmercury), which is estimated to be substantial.As with nutrition, our evidence related to food safety and health continues to evolve. For example, the clinical outcome of exposure to food-borne pathogens may be modulated by the human gut microbiome.
+Some work has also been done to estimate the burden of illness due to four food-borne metals (arsenic, cadmium, lead, methylmercury), which is estimated to be substantial. As with nutrition, our evidence related to food safety and health continues to evolve. For example, the clinical outcome of exposure to food-borne pathogens may be modulated by the human gut microbiome.
 
 Food safety system performance and related disease outcomes are predominantly utilised in high-income countries (HICs). `Food safety` ensures that food is fit for human consumption and not harmful to human health and is most often under the competence of veterinary, health or agricultural inspectors. `Food quality` is a market category that is usually the responsibility of food or market inspectors
 
@@ -464,3 +464,74 @@ The seven calls for action can provide guidance to ensure an integrated, systemi
 
 ### 6. Conclusions
 Food systems across the world are driving habitat and biodiversity loss, land and water degradation, and greenhouse gas emissions. These phenomena, in turn, undermine theproductivity, sustainability and resilience of food systems. This vicious circle can be broken if we take several fundamental steps to realign our food, feed and fiber production to achieve nature-positive agricultural production at scale. 
+
+## Track 4
+**`Advance Equitable Livelihoods (March 2021)`**  
+The task of Action Track 4 is to explore approaches to Food systems transformation to ensure equitable livelihoods for producers, businesses, workers across the food system and consumers, with particular emphasis on addressing inequalities and power imbalances.
+Small and medium sized producers and people living on the food system in rural and urban areas are disproportionately affected by all biophysical and environmental drivers including soil and water resources, and climate change.
+
+The pandemic is having a significant impact on the global commodity markets and trading systems, economic growth, incomes, and poverty levels, with likely disproportionate burden on the vulnerable communities in both urban and rural areas. 
+
+### Introduction
+The central issue identified by the AT 4 team has been stated as:
+
+> Inequality and power imbalances – at household, community, national and global levels – are consistently constraining the ability of food systems to deliver poverty reduction and sustainable, equitable livelihoods.
+
+In developing solutions, AT 4 explicitly calls out inequities related to gender, youth, elderly, minority, migrant, and indigenous peoples. They focus on small and medium size enterprises (SMEs) across the food value chain, but also equitable access to employment and livelihoods for wage earners, extending the concerns of inequality to rural/ urban and other social and geographic divides.
+
+Efforts to address inequality and power imbalances must: 
+- **Build Agency**: building consciousness, confidence, self-esteem and aspirations (non-formal sphere) and knowledge, skills and capabilities (formal sphere)
+- **Change Relations**: the power relations through which people live their lives through intimate relations and social networks (non-formal sphere) and group membership and activism, and citizen and amrket negotiations (formal sphere)
+- **Transform Structures**: discriminatory social norms, customs, values and exclusionary practices (non-formal sphere) and laws, policies, procedres and services (formal sphere)
+
+### Framework
+- 📗 HLPE 15 - Food security and nutrition.pdf
+
+We use the conceptual framework of sustainable food systems drivers (reduced from HLPE)
+1. **Biophysical and Environmental**: soil, water, and climate change. Small and medium sized producers and people living on the food system in rural and urban areas are disproportionately affected by all biophysical and environmental drivers including soil and water resources. Land degradation and climate change act as threat multipliers.
+2. **Technology, Innovation and Infrastructure**: infrastructure influences the food chain. It is required for food to move long distances and to increase food security in areas of shortages, to stabilize food prices, to minimize food-borne disease and food waste. With access to data, markets, and financial services, farmers can plant, fertilize, harvest, and sell products more effectively. 
+3. **Economic and Political**: globalization and trade have a critical role to play in ensuring food security and nutrition (FSN) and reducing inequalities. Stabilizing food prices will help to reduce the risk of all stakeholders along the food supply chains and will bring benefits to the small holders who are more vulnerable in the production system and consumers in rural and urban.
+4. **Socio-Cultural and Demographic**: there are approximately 185 million indigenous women in the world, belonging to more than 5000 different indigenous peoples. Past and present social and environmental injustices have led to the loss of food sovereignty, through dispossessing Indigenous peoples from their traditional territories and undermining intergenerational knowledge transmission of cultural practices related to their food systems. Inequality of opportunity is an important constraint. Increased urbanization means a growing gap between the location of food production and food consumption. It may also mean a change in lifestyle including dietary changes. Reliable data, disaggregated by sex, age, origin and destination are necessary to understand socio-economic conditions associated with migration.
+
+### The unprecedented range of COVID-19 disruptions to the food system and livelihoods
+The impact from the pandemic parallels or exceeds the impact of major shocks over the past few decades, whether caused by natural disasters, disruption of financial and commodity markets, or conflict and civil strife.
+There are important lessons to be learned from the current pandemic to help shape more effective strategies to managing future shocks and their impact on the livelihood of the excluded and marginalised.
+- The Effects of Covid on marginalized communities: Income, poverty, and nutrition
+- Equity and policy responses to Covid and similar shocks: better handle on equity and vulnerability before shocks strike.
+- Lessons for managing future shocks to protect livelihoods: Investment in the capacity for good understanding of the patterns of vulnerability across various communities
+- good understanding of the nature of operation of local food systems.
+- investment in a minimum infrastructure for real time data access and management for better targeting and tracking in order to raise the effectiveness of response and mitigation measures to protect the poor and vulnerable.
+
+### Conclusions
+Food system transformation must address the drivers of inequality and also find the balance of food systems that favour and support healthy diets and do so in ways that are sustainable for the planet. 
+
+We believe therefore, that enhancing equitable livelihoods will require solutions that:
+1. **Are rights-based**: living wage, right to food and then right to a healthy diet. Create monitoring and accountability mechanisms.
+2. **Ensure long-term investment for structural changes**: while achieving short term gains
+   - access to resources, technology, infrastructure and productive services among smallholders and other less powerful actors along the food system
+   - markets and trading regimes work for producers and consumers
+   - ensure equitable access to productive assets
+3. **Directly inform local and national policy and programmes**: breaking down of current policy silos in favour of coordinated policy agendas that permit the mapping and balancing of trade-off, benefits, and harms to human and planetary health.
+4. **Enhance the development of and equitable deployment of contextually relevant innovation and technology**: systems must be strengthened to ensure it does not exacerbate inequalities, and to ensure that the balance of potential benefits and harms can be assessed
+
+### Recommendations
+
+- **Alter power structures to enhance inclusive decision-making**:
+  - Examples of key international organizations include FAO, IFAD, WFP, the World Bank Group, CGIAR, among others.
+  - Engage a coalition of local, regional, and international research institutions to generate and test a framework and indicators
+  - accountability mechanism to track progress
+  - explore demographic, social, and cultural aspects that may influence participation in decision-making
+- **Protect the livelihoods of those living in situations of vulnerability, while creating opportunities**: 
+  - A promising model of boosting productivity and improving livelihoods through skills development, advisory services financial transfer is the FOMENTO model from Brazil.
+  - technology models to predict climate and other agricultural risks: Climate Information Service. Econometric studies highlight CIS as one of the most important factors influencing adaptation and transformation of farming systems. 
+- **Adapt institutions and policies to favour equitable food systems livelihoods**
+  - favour the production, distribution, and consumption of nutritious over unhealthy foods, produced with territorial approaches that favour planetary health, and ensure equitable livelihoods for producers and wage-earners across the food system
+- **Increase investment to realize the potential of improved institutional and policy actions**
+  - 📗 Cluster based industrialization which provide a critical mass of infrastructure, services, and networking opportunities.
+  - 📗 Kaizen model from Japan, which has been recently tested in Africa with promising results
+- **Hold governments, businesses, and organizations to account for ensuring equitable livelihoods**
+  - coalition to generate and test a framework and indicators
+  - accountability mechanism to track progress
+- **Realize the potential of science, innovation, technology, and evidence to favour equitable livelihoods**
+  - New approaches are instrumental to revitalize Indigenous food systems and to produce, process, and consume food in culturally relevantand ecologically sustainable ways
+  - Improve the availability, quality, accessibility, and use of data that can map and inform actions to reduce inequalities in the food systems.
