@@ -5,8 +5,8 @@
 [1. Introduction to the Global Food System](#1-introduction-to-the-global-food-system)  
 [2. Boosting the Small](#2-boosting-the-small)  
 [3. Transforming the big](#3-transforming-the-big)  
-[4. Losing less](#4-losing-less)    
-5. Eating Smarter  
+[4. Losing less](#4-losing-less)  
+[5. Eating Smarter ](#5-eating-smarter)   
 6. Conclusion: What does transformation really mean?
 
 ## 1. Introduction to the Global Food System
@@ -347,6 +347,117 @@ The capacity of agroecological systems  has not yet had the chance to prove itse
 
 Additional research is also required on the process of transition itself (specially from industrialized cereal monocultures). These unknowns should not hold back the case for change, there may be no greater risk than sticking with industrial agriculture and the systematic problems it generates.
   - 🔬 IPES-Food, forthcoming
+
+## 5. Eating Smarter
+- Explain the responsibility that different actors (producers, retailers, consumers, governments, etc.) have with respect to changing people’s eating habits
+- Describe the potential role of fish in future diets
+
+### Replacing meat
+Luckily, even though food choices are difficult, there are still simple, straightforward and general guidelines.
+For many people in developed countries, these guidelines include the consumption of less meat. Feeding livestock with good food is an ineffective use of our sources. Reducing or eliminating meat from your diet causes less environmental damage in terms of water use, pollution, deforestation and climate change and if you make sure to get important protein and vitamins from other sources, then it's also better for your health.
+
+For the majority of the population, changing eating habits is, however, not easy. Therefore, in order to start eating smarter, we have to crack the nut of `behavioral change`.
+
+Artificial meat (produced from the culture of animal cells) is attracting a lot of funding for research and promises to revolutionise the price of meat. However, this process is extremely energy-consuming; therefore, it is unclear how important such products will be in transitioning to sustainable food systems.
+
+Meat alternatives based on plant material are already on supermarket shelves in many European countries. NATURLI' has introduced plant-based products in a range of markets including Scandinavia, Great Britain and Germany.
+NATURLI' has operated in the market since 1988, but it is within the last 5 years that demand has suddenly increased.
+The meat alternatives that NATURLI' produces contain less protein than actual meat, and they also have a higher percentage of fat.
+
+> At NATURLI', we believe that commodities should constantly be challenged. Presently, we work with soy beans a lot and peas as well, but the future could be in grass: a crop that grows 9 months in a year, and it has greater yield when it comes to protein compared to soy beans. The only disadvantage is that it's only the cow that can digest grass because of its four stomachs.
+
+- 🔬 InnoGrass project: developed by GUDP (the Danish Agricultural Agency) in cooperation with DTU (Technical University of Copenhagen)
+
+Meat alternatives based on plants are easy for the consumer to accept, but they lack nutritional quality compared to actual meat.
+The opposite is true of another protein source, namely insects.
+there is a great interest in cultivating the use of insects as a source of food around the world, because they are high on protein; it is a composition of fatty acids that can be found in many insects. And there are various vitamins that is otherwise hard to obtain from only a vegetarian diet, and that can be obtained in ample amounts from only eating a carnivore diet in which insects is a good example. In recent years, there have been many environmental reasoning as to why we should eat insects we should eat insects, because insects have an incredibly efficient nutrient turnover compared to i.e. cows and pigs. Insects are also more efficient when it comes to turning feed into weight. We need less space and resources in producing the same amount of energy into food when compared to animal food production
+
+Insects are not only viewed as emergency food for survival, but they are actually a valued delicacy in many countries. Thailand currently has thousands of grasshopper and cricket farmers.
+
+For insects to become a relevant source of food globally, their production needs to be up-scaled. This necessitates ethical, economic and health-related considerations (diseases).
+
+### Changing habits
+When changing the eating habits of a nation, state policies can play an important role.  We need also policies to support the behavioral change. The institutions need to be in place to support the sustainable consumption and sustainable eating. It was in 2012 that the Nordic nutrition recommendations integrated the sustainability goals into them. 
+In the new nutrition guidelines, there are these very strong incentives to support plant-based eating even. The vegetarian days has become normal in the Finnish schools but then also having this kind of optional or vegetarian choice that you can choose, whenever you want to.
+Although meat consumption in Finland has tripled since the 1950s, today’s pupils are setting a new trend.
+For both children and adults, the way food is displayed can play a big role.
+If we want to change eating habits soon and fast, it’s not enough to focus on the ”do’s and don’t’s”, when it comes to children. It is also possible to change the behavior of adults and especially if we can take advantage of some windows of change in our lives.
+
+Nudging is a phenomenon that can be used to change these eating habits both at a personal and societal level. Examples: having smaller plates in the cafeteria to avoid a waste of food.
+
+### Citizen-driven transformation
+#### FoodSHIFT2030
+One of the big societal questions is how the knowledge can be used at a larger scale.
+At another institute at the University of Copenhagen, Christian Bugge Henriksen is also involved in behavioral change, but his focus is how to strengthen innovation that can empower normal citizens to make the changes in their eating habits. The **FoodSHIFT2030** project is a 7.5 million euro innovation action project addressing the call on innovative and citizen-driven food system approaches in cities. The focus of the project is the transition towards a low-carbon circular future for the European food system, including a focus on less meat and more plant-based diets.
+
+The project is based on a complex full-circle approach, where innovation groups of citizens are supported in developing their ideas at different stages.
+The project applies a groundbreaking mechanism for maturing, combining, up-scaling and multiplying existing food system innovations in 9 European city regions, and we are looking at both the production, the distribution and the consumption and the recycling, upcycling stage of the food value chain.
+So throughout the project, we are working on 4 impact pathways: 
+- citizen empowerment
+- job creation
+- sustainability
+- food system transition
+
+#### Plant Jammer
+One of the specific citizen-driven innovations that Christian is working with, and where he earlier has helped with climate calculation on ingredients is the startup **Plant Jammer**.
+
+In Plant Jammer, we empower people to create their own recipes ingredient by ingredient, so you can use what you have. Is really easy to both learn how to cook new stuff, but also make it easy and playful and not feel like a chore.
+
+And particularly in the FoodSHIFT project, what we're focusing on there is that behavioral change to really enable people to cook more plant-based and cook with new ingredients that are good for you and the planet. We learned that you cannot change behavior by simply giving people information.
+There are 3 particular things you need to do to change that behavior:
+1. clarity: you need to know what is expected of you
+2. incentives: something in it for you
+3. capabilities: to be able to do it
+
+For the incentives, we're making a little game out of this. So every time you make a plant-based dish, we're rating it in greenhouse gases relative to a burger; and, then we show you how much CO2 you're saving measured in numbers of trees you can plant. You build your own forest to show others. 
+
+The reason why Plant Jammer is engaged in eating habits is precisely because this is an area of food systems, where individual citizens have the power to make a big difference in the world.
+Is within your realm of control; so as an individual you don't need regulation, you don't need big infrastructure products; you can do it yourself. 
+
+The engine behind Plant Jammer is based on artificial intelligence and helps making vegetarian food the easier choice.
+we use artificial intelligence that learnt on 3 million recipes: what ingredients tend to go well together.
+
+The concept is that people will do the right thing when it's the most easy thing to do, and that's what we try to do.
+
+### Improving aquaculture
+Fish still represents a good nutritional alternative to red meat today.
+So what we are thinking and discussing a lot here is: we think the blue proteins would actually come in as a very important player in the protein shift. They are not as much discussed as the green ones, but they have a much lower environmental footprint than the red ones, and there are many different grades of how sustainable they are.
+There are a lot of important nutrients in the fish; so, they should be more in the debate in the protein shift.
+
+With the scale of aquacultural production today, massive amounts of protein are lost in the food chain with the processing water. So the concept, we are working on, is to make this recapturing of the proteins from the process water and into a food ingredient in a cost-effective and efficient way that makes this process worthwhile doing for the different seafood companies.
+
+### Additional material: Focus on what you eat, not whether your food is local
+[link](https://ourworldindata.org/food-choice-vs-eating-local)
+
+totgfs-5.5-env-impact-of-food-by-life-cycle-stage
+<img src="../food/img/totgfs-5.5-env-impact-of-food-by-life-cycle-stage.png" width="90%">
+
+**Eating local** is a recommendation you hear often. While it might make sense intuitively – after all, transport does lead to emissions – it is one of the most misguided pieces of advice.
+Eating locally would only have a significant impact if transport was responsible for a large share of food’s final carbon footprint. For most foods, this is not the case.
+GHG emissions from transportation make up a very small amount of the emissions from food and what you eat is far more important than where your food traveled from.
+
+#### **Where do the emissions from our food come from?**  
+Overall, animal-based foods tend to have a higher footprint than plant-based.
+For most foods – and particularly the largest emitters – most GHG emissions result from land use change (shown in green), and from processes at the farm stage (brown). Combined, land use and farm-stage emissions account for more than 80% of the footprint for most foods.
+
+Transport is a small contributor to emissions. For most food products, it accounts for less than 10%, and it’s much smaller for the largest GHG emitters. In beef from beef herds, it’s 0.5%.
+
+#### **Eating local only slightly reduces your emissions**
+Whether you buy it from the farmer next door or from far away, it is not the location that makes the carbon footprint of your dinner large, but the fact that it is beef.
+If we were to take the case where we assume a household sources all of their food locally, the maximum reduction in their footprint would be 5%. 
+Going ‘red meat and dairy-free’ (not totally meat-free) one day per week would achieve the same as having a diet with zero food miles.
+There are many examples of studies which show that importing often has a lower footprint than greenhouse, refrigeration and other preservation methods.
+
+#### **Avoid the small share of foods that are air-freighted**
+The impact of transport is small for most products, but there is one exception: those which **travel by air**: it emits 50 times more CO2eq than boat per tonne kilometer.
+Avocados and almonds when shipped from Mexico to the United Kingdom, its emissions are much less than locally-produced animal products. Boat shipping is 8% of avocados’ total footprint
+
+**Which foods are air-freighted? How do we know which products to avoid?**
+
+They tend to be foods which are highly perishable. This means they need to be eaten soon after they’ve been harvested. Some fruit and vegetables tend to fall into this category. Asparagus, green beans and berries are common air-freighted goods. 
+It is often hard for consumers to identify foods that have travelled by air because they’re rarely labeled as such.
+
+> A general rule is to avoid foods that have a very short shelf-life and have traveled a long way 
 
 # Link Material
 **Index**
