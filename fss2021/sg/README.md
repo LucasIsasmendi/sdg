@@ -10,7 +10,7 @@ These papers are shared to provide information and facilitate discussion for tra
 - ✅ [Track 2](#track-2): `Shift to Healthy and Sustainable Consumption Patterns (April 2021)`
 - ✅ [Track 3](#track-3): `Boost Nature Positive Production at Sufficient Scale (April 2021)`
 - ✅ [Track 4](#track-4): `Advance Equitable Livelihoods (March 2021)`
-- T5. Building Resilience to Vulnerabilities, Shocks and Stresses (March 2021)
+- ✅ [Track 5](#track-5): `Building Resilience to Vulnerabilities, Shocks and Stresses (March 2021)`
 
 ## Healthy diet: A definition for the United Nations Food Systems Summit 2021 (March 2021)
 Diets are combinations of foods consumed by individuals of a given time. The specific combination of foods that make up healthy diets, however, is context specific and depends on many cultural, economic, and other factors.
@@ -535,3 +535,76 @@ We believe therefore, that enhancing equitable livelihoods will require solution
 - **Realize the potential of science, innovation, technology, and evidence to favour equitable livelihoods**
   - New approaches are instrumental to revitalize Indigenous food systems and to produce, process, and consume food in culturally relevantand ecologically sustainable ways
   - Improve the availability, quality, accessibility, and use of data that can map and inform actions to reduce inequalities in the food systems.
+
+## Track 5
+**`Building Resilience to Vulnerabilities, Shocks and Stresses (March 2021)`**
+Transforming food systems involves five action tracks:i) access to safe and nutritious food, ii) sustainable consumption, iii) nature-positive production, iv) equitable livelihood, and v) resilience to shocks and stress.
+
+Action Track 5 of the Food Systems Summit aims to ensure `food system resilience` in the face of increasing stresses from climate change, population growth and conflict over limited natural resources.
+
+**Five capacities of resilient food systems**: 
+1. to **anticipate**
+2. to **prevent**
+3. to **absorb**
+4. to **adapt** to an evolving risk
+5. to **transform** in cases where the current food system is no longer sustainable.
+
+Resilience at the individual, community, government and global food system level must be built in such a way that the economic, social and environmental bases to generate food security and nutrition for current and future generations are not compromised anywhere in the world. This means that it is equitable in a financial sense (economic resilience), it is supportive of the entire community (social resilience), and it minimizes harmful impacts on the natural environment (ecological resilience).
+
+There are a number of key trade-offs which must be navigated: the need to deliver short term humanitarian aid without jeopardizing long run development, mitigation of rising global temperatures even as the food system adapts to the inevitable changes in the earth’s climate, taking advantage of the benefits of globalization while avoiding the downsides, and encouraging agricultural production and boosting rural incomes while also protecting the environment.
+
+The resilience framework is helpful to conceptualise complex problems related to food security and allows us to point to important challenges that need to be overcome. Developing an operational resilience approach is always context-specific. Hence, there is no single game changing solution that will ensure resilience across multiple food security challenges.
+
+### Introduction
+Building resilience requires clear understanding and consideration of the specific food system context. Conceptual ideas need to be operationalized, developing concrete measures and processes for the five capacities of resilient food system (anticipate, prevent, absorb, adapt, transform).
+
+### Challenges and Ambitions
+Food systems are becoming increasingly global, dynamic, and complex.
+Successful management of socio-ecological systems necessitates understanding the contextual factors that drive changes in resource-use patterns and influence societal capacity to adapt in the face of stresses.
+Perceptions of risk, preference, belief, knowledge, and experience are key factors determining whether and how adaptation takes place – both at the individual and societal levels. Elements of good community-level governance such as social cohesion, leadership, or individual support for collective action improve the perception that people have of the resilience of their community.
+
+Creation of a food system that delivers broad-based benefits for all people, requires covering all the societal bases of equity and inclusiveness, requires actions at both the individual and societal levels. Capacity building for resilient food systems is a non-static process.
+
+### Key Trade-Offs and Synergies
+Over the next decade, food systems will face a complex challenge to deliver sufficient safe and nutritious food for all in a sustainable manner in the face of a changing climate, while reducing greenhouse gas emissions and preserving ecosystems and biodiversity, and also providing equitable livelihoods to all the actors in the food chain and promoting sustainable development. Attainment of these diverse goals while ensuring food system resilience gives rise to complex synergies and trade-offs across economic, political, social and environmental dimensions that need to be considered in setting priorities across productivity growth, environmental sustainability and hunger reduction 
+   - 📃 Resilience of local food systems and links to food security – A review of some important concepts in the context of COVID-19 and other shocks
+
+Most salient trade-offs and synergies:
+- **Short term humanitarian aid vs. Long term development assistance**: <1% of emergency assistance goes to disaster prevention and preparedness
+- **Rural and Urban communities**: conflict frequently arises at the boundary of agriculture and forests where encroachment on natural habitat can lead to conflict. Agriculture accounts for nearly three-quarters of water consumption globally. Migration can also provide an important adaptation strategy to climate related risks
+- **Climate change adaptation and mitigation**: by climate-smart agriculture approach(CSA); agriculture that sustainably increases productivity, enhances resilience (adaptation), reduces/removes GHGs (mitigation) where possible, and enhances achievement of national food security and development goals. Actions tailored to the specific conditions
+- **Globalization vs. self-sufficiency**: Better integration into world markets can ensure food security in the face of local drought, flooding and other natural disasters. However, when the source of adverse shocks is the global market, countries may have an incentive to insulate themselves from these developments. The problem with this strategy is that, the more countries insulate themselves from world markets, the more volatile those markets will become
+- **Livestock production as a source of income and nutrition vs. environmental sustainability**: Beef production, in particular, has been shown to be extremely resource intensive, resulting in significant environmental stress. However, in many developing countries, livestock products are a critical source of dietary diversity – particularly in the critical first 1,000 days of life.
+- **All of these trade-offs are made more challenging in the context of small farms, operating in marginal environments**: these farms account for only 12% of the world’s farmland, they provide livelihoods for more than 2 billion people and produce about 80% of the food in Sub-Saharan Africa and Asia. These marginalized communities will benefit from risk informed and safety net social protection schemes as well as remuneration for ecosystem services they can provide through wise management and custodianship of renewable natural resources
+
+### What Needs to be Done?
+To address these resilience challenges, solutions need to be defined around cross cutting levers of joined-up policy reform, coordinated investment, accessible financing, innovation, traditional knowledge, governance, data and evidence, and empowerment.
+
+Examples:
+- **Early warning system**: There are now nearly two dozen organizations involved in food security and drought early warning systems. The joint FAO-World Food Program Early Warning System now provides up to date analysis of acute food security hotspots and plays a key role at the global level. 
+- **Weather index insurance**: As climate extremes become more frequent and more pronounced in the future, producers will face increasing risks. nsured farmers have boosted savings, increased the number of oxen and increased access to loans.
+- **Enhanced market information**: Increased digitalization of trade regulations and monitoring has facilitated more rapid movement of critical goods. AMIS provides up to date information on agricultural commodity prices and availability, thereby preventing over-reactions on the part of governments and markets. This has resulted in far more resilient global markets for agricultural products.
+- **Addressing food insecurity in conflict zones**: climate change is a key driver of conflict. The combination of conditional food assistance and asset creation work helps food-insecure communities to shift away from reliance on humanitarian aid to achieve more sustainable food security. The crisis in Somalia offers an example of the compound risks from severe weather events coinciding with conflict.
+- **Social protection**: The goal is to help these households build assets which can sustain them through future crises, along with contributing to the construction of rural infrastructure. Integrating smallholders more fully into regional markets can also enhance resilience.
+- **Aquaculture diversification**
+- **Postharvest loss reduction**
+- **Development, dissemination and utilization of agricultural big data**: CGIAR-[INSPIRE](https:// bigdata.cgiar.org/inspire). There is also an increasing emphasis on integrated systems approaches in which farming practices seek to imitate nature’s ecological principles. Integrate knowledge generation with knowledge sharing. Accurate weather forecasting is critical for farming community.
+- **Enhanced equity in food systems**
+- **Agro-ecology**
+- **Trans-national policy coordination**: ensure food safety along the entire food chain. Include elements of quality control and quality assurance systems, food safety standards, risk analysis, diagnostic technology, and traceability systems. 
+- **Food safety policies**: Poor hygienic practices in the home are responsible for between 30-40% of food-borne illness
+- **Community organization and local innovation**
+
+### The Importance of Context Specificity
+Resilience interventions will have differential impacts depending on their agroecological context, cultural aspects, policies and institutional capacities. Solutions cannot be “one size fits all”. 
+Enhancing agricultural development for marginal farmers and smallholders can create strong links to the rest of the rural sector.
+Resilience and vulnerability strongly depends on the ability to adapt to climate change which again depends of economic conditions with poorer, less diversified regions being more vulnerable
+
+### Concluding Remarks
+resilience has successfully been used as a conceptual framework to improve food security as well as vehicle for organizing links among respective actors, agencies and institutions.
+- None of the studies integrates all capacities. The ones behind are prevention and transformation
+- systematic approaches for analysis of trade-offs are often missing.
+- links among programs are often not well developed, additional benefits are missed 
+- there is no single game-changing solution that solves the range of different food security challenges
+- using resilience as a systems approach to support the conceptualization of the food security challenge and the integration of actors, organizations and agencies to develop context-specific solutions offers a promising way forward
+
