@@ -1,4 +1,9 @@
 # SDG -> MOOCs
+- [General](#general)
+- [Food](#food)
+- [Climate](#climate)
+- [Circular Economy](#circular-economy)
+- [Others](#others)
 
 ## General
 ### Introduction to Sustainability
@@ -63,7 +68,9 @@
 
 
 ## Food
-- 👁️‍🗨️ [Transformation of the Global Food System](./food/totgfs.md) ~ University of Copenhagen
+- ✔️ [Transformation of the Global Food System](./food/totgfs.md) ~ University of Copenhagen
+- SDG Sub-indicator 12.3.1.a – Food Loss Index [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=605)
+
 
 ### The Economics of Agro-Food Value Chains
 [coursera link](https://www.coursera.org/learn/valuechains) - Weeks:

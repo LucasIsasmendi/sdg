@@ -7,7 +7,7 @@
 [3. Transforming the big](#3-transforming-the-big)  
 [4. Losing less](#4-losing-less)  
 [5. Eating Smarter ](#5-eating-smarter)   
-6. Conclusion: What does transformation really mean?
+[6. Conclusion: What does transformation really mean?](#6-conclusion-what-does-transformation-really-mean)  
 
 ## 1. Introduction to the Global Food System
 ### Transformation of the global food system - Introduction
@@ -362,7 +362,7 @@ Artificial meat (produced from the culture of animal cells) is attracting a lot 
 
 Meat alternatives based on plant material are already on supermarket shelves in many European countries. NATURLI' has introduced plant-based products in a range of markets including Scandinavia, Great Britain and Germany.
 NATURLI' has operated in the market since 1988, but it is within the last 5 years that demand has suddenly increased.
-The meat alternatives that NATURLI' produces contain less protein than actual meat, and they also have a higher percentage of fat.
+The meat alternatives that NATURLI' produces contain less protein than actual meat, and they also have a higher%age of fat.
 
 > At NATURLI', we believe that commodities should constantly be challenged. Presently, we work with soy beans a lot and peas as well, but the future could be in grass: a crop that grows 9 months in a year, and it has greater yield when it comes to protein compared to soy beans. The only disadvantage is that it's only the cow that can digest grass because of its four stomachs.
 
@@ -458,6 +458,87 @@ They tend to be foods which are highly perishable. This means they need to be ea
 It is often hard for consumers to identify foods that have travelled by air because they’re rarely labeled as such.
 
 > A general rule is to avoid foods that have a very short shelf-life and have traveled a long way 
+
+## 6. Conclusion: What does transformation really mean?
+- Explain the need for transformation instead of incremental improvements of the current system
+- Describe which factors must be combined in order to achieve a transformation
+
+### Conclusion: What does transformation really mean?
+A transformation is not a gradual improvement of an existing system. Nor is it a revolution that upturns everything in its way.
+
+> A transformation is the result of countless number of individual changes, taking place in different parts of the system, at the same time.
+
+While these intentional changes or initiatives are independent, they are all aligned, as they all measure themselves against the same challenge: How can 8 billion people live in harmony with the natural resources of this planet, and, at the same time, make room for an additional 2 billion?
+
+With 10 billion people on Earth in 2050, a baseline scenario from the World Resources Institute projects that greenhouse gas emissions from food systems measured in CO2 equivalents will be 15 gigatons per year.
+To stay below a 2 degree Celsius rise in temperature, we need those emissions to be only 4 gigatons per year.
+That means, the transformation has to cut 11 gigatons of CO2 emissions from our food systems.
+How we can cut 11 gigatons of CO2 emissions by 2050?
+- **5 GT** by reducing growth in demand for food and other agricultural products. This requires that productivity growth is 25% faster than in the baseline. And that crop yields rise by 56% over the 2010 level.
+  - reducing food loss and waste by 50%
+  - eating 30% less ruminant meat
+- increase fish supply?
+- **3 GT** by improvements in agricultural production
+  - reducing methane output from ruminants by 30%
+  - 80% reduction in greenhouse gas emissions from wet manure.
+  - reduced use of nitrogen fertilisers and a 50% decrease in energy emissions per unit agricultural output.
+- **3 GT** by reforest 80 million hectares of liberated land
+
+a whopping 6 gigatons of the deficit is covered by progress, which makes room for land use change.
+
+We need political action, we need technological innovation, we need improved systems of finance and we need behavioral change.
+
+### Additional material: How to Sustainably Feed 10 Billion People by 2050?
+[link](https://www.wri.org/insights/how-sustainably-feed-10-billion-people-2050-21-charts)
+
+Feeding 10 billion people sustainably by 2050 requires closing three gaps:
+- A 56% food gap between crop calories produced in 2010 and those needed in 2050 under “business as usual” growth;
+- A 593 million-hectare land gap (an area nearly twice the size of India) between global agricultural land area in 2010 and expected agricultural expansion by 2050;
+- An 11-gigaton GHG mitigation gap between expected agricultural emissions in 2050 and the target level needed to hold global warming below 2oC (3.6°F), the level necessary for preventing the worst climate impacts.
+
+**A Five-Course Menu of Solutions for a Sustainable Food Future**  
+There is no silver bullet to close the food, land and GHG mitigation gaps.
+WRI has identified 22 solutions that need to be simultaneously applied to close these gaps. The relative importance of each solution varies from country to country. The solutions are organized into a five-course menu
+
+#### **Course 1: Reduce Growth In Demand for Food and Other Agricultural Products**
+1. **Reduce food loss and waste**: one-quarter of food produced for human consumption goes uneaten. Reducing food loss and waste by 25% by 2050 would close the food gap by 12%, the land gap by 27% and the GHG mitigation gap by 15%. Check graphic: where food loss and waste occurs along the food supply chain.
+2. **Shift to healthier, more sustainable diets**: Limiting ruminant meat consumption to 52 calories per person per day by 2050—about 1.5 hamburgers per week—would reduce the GHG mitigation gap by half and nearly close the land gap. Shift to plant-based foods.
+3. **Avoid competition from bioenergy for food crops and land**: Biomass is also an inefficient energy source. Bioenergy is not “carbon-neutral”.
+4. **Achieve replacement-level fertility rates**: 2.1 children per woman. It would close the land gap by one quarter and the GHG mitigation gap by 17% while reducing hunger. Sub-Saharan Africa is 5 children per woman and a projected rate of 3.2 in 2050.
+
+#### **Course 2: Increase Food Production Without Expanding Agricultural Land**
+5. **Increase livestock and pasture productivity**: 25% faster increase in the output of meat and milk per hectare of pasture between 2010 and 2050 could close the land gap by 20% and the GHG mitigation gap by 11%
+6. **Improve crop breeding**: Future yield growth is essential to keep up with demand
+7. **Improve soil and water management**: 20% faster increase in crop yields between 2010 and 2050 could close the land gap by 16% and the GHG mitigation gap by 7%. Agroforestry, or incorporating trees on farms and pastures, can help regenerate degraded land and boost yields.
+8. **Plant existing cropland more frequently**: increasing annual cropping intensity by 5% beyond the 2050 baseline of 87% would shrink the land gap by 14% and the GHG mitigation gap by 6%. Research is needed to measure environmental constraints.
+9. **Adapt to climate change**: without adaptation, global crop yields will likely decline by at least 5% by 2050, with steeper declines by 2100. A 10% decline in crop yields would increase the land gap by 45%.
+
+#### **Course 3: Protect and Restore Natural Ecosystems and Limit Agricultural Land-Shifting**
+10. **Link productivity gains with protection of natural ecosystems**: ensure that infrastructure investments do not come at the expense of ecosystems. Deforestation in South America is largely driven by agricultural commodities.
+11. **Limit inevitable cropland expansion to lands with low environmental opportunity costs**: this includes lands with limited biodiversity or carbon storage potential, but high food production potential.
+12. **Reforest agricultural lands with little intensification potential**
+13. **Conserve and restore peatlands**: The world’s 26 million hectares of drained peatlands account for 2% of annual GHG emissions. Restoring them to wetlands should be a high priority and would close the GHG mitigation gap by up to 7%
+
+#### **Course 4: Increase Fish Supply**
+14. **Improve wild fisheries management**: 1/3 of marine stocks were overfished in 2015. Catches need to be reduced today to allow wild fisheries to recover enough just to maintain the 2010 fish-catch level in 2050
+15. **Improve productivity and environmental performance of aquaculture**: As wild fish catches decline, aquaculture production needs to more than double to meet a projected 58% increase in fish consumption between 2010 and 2050
+
+#### **Course 5: Reduce Greenhouse Gas Emissions from Agricultural Production**
+GHG emissions from agricultural production arise from livestock farming, application of nitrogen fertilizers, rice cultivation and energy use. They’re projected to rise from 7 to 9 gigatons per year or more by 2050 (in addition to 6 gigatons per year or more from land-use change). This course addresses each of these major emissions sources.
+
+16. **Reduce enteric fermentation through new technologies**: Ruminant livestock were responsible for around 50% of all agricultural production emissions in 2010. Of these emissions, the largest source is “enteric methane,” or cow burps.
+17. **Reduce emissions through improved manure management**: Emissions from “managed” manure, originating from animals raised in confined settings, represented around 9% of agricultural production emissions in 2010
+18. **Reduce emissions from manure left on pasture**: Livestock feces and urine deposited in fields turns into nitrous oxide, a potent greenhouse gas. This unmanaged manure accounted for 12% of agricultural production emissions in 2010.
+19. **Reduce emissions from fertilizers by increasing nitrogen use efficiency**: Emissions from fertilizers accounted for around 19% of agricultural production emissions in 2010. Globally, crops absorb less than half the nitrogen applied as fertilizer.
+20. **Adopt emissions-reducing rice management and varieties**: Rice paddies contributed at least 10% of agricultural production emissions in 2010, primarily in the form of methane. But there are less emissions- and resource-intensive rice production methods. For example, shortening the duration of field flooding can reduce water levels to decrease the growth of methane-producing bacteria. This practice can reduce emissions by up to 90 percent while saving water and increasing rice yields on some farms.  Some rice varieties also generate less methane. 
+21. **Increase agricultural energy efficiency and shift to non-fossil energy sources**: Emissions from fossil energy use in agriculture accounted for 24% of agricultural production emissions in 2010
+22. **Implement realistic options to sequester carbon in soils**: Important strategies include avoiding further loss of carbon from soils by halting conversion of forests, protecting or increasing soil carbon by boosting productivity of grasslands and croplands, increasing agroforestry, and developing innovative strategies for building carbon where soil fertility is critical for food security.
+
+#### **Moving Toward a Sustainable Food Future**
+These menu items are not optional—the world must implement all 22 of them to close the food, land and GHG mitigation gaps.
+The good news is that all five courses can close the gaps, while delivering co-benefits for farmers, society and human health. 
+
+<img src="../food/img/totgfs-6rm-wrr-5-courses.png" width="90%">
 
 # Link Material
 **Index**
