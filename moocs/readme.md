@@ -1,7 +1,10 @@
 # SDG -> MOOCs
 - [General](#general)
+- [SDG Indicators Series](#sdg-indicators-series)
 - [Food](#food)
+- [Nutrition](#nutrition)
 - [Climate](#climate)
+- [GHG](#ghg)
 - [Circular Economy](#circular-economy)
 - [Others](#others)
 
@@ -67,9 +70,23 @@
 
 
 
+## SDG Indicators Series
+**FAO eLearning Academy**:
+- SDG Sub-indicator 12.3.1.a – Food Loss Index [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=605)
+- SDG Indicator 2.4.1 - Sustainable Agriculture [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=503)
+- SDG Indicators 2.3.1 and 2.3.2 - Labour productivity and income of small-scale food producers [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=483) - 3 h 30 m of learning
+- SDG Indicator 6.4.1 - Change in water-use efficiency over time [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=475) 2 h of learning
+- SDG Indicators 2.5.1 and 2.5.2 - Plant and Animal Genetic Resources [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=392) - 6 h 30 m of learning
+- SDG Indicator 2.1.1 - Prevalence of Undernourishment (PoU) [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=386) - 2 h 30 m of learning
+- SDG Indicator 2.1.2 - Using the Food Insecurity Experience Scale (FIES) [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=360) - 3 h 30 m of learning
+- SDG Indicator 2.a.1 - Agriculture orientation index [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=361) - 1 h 30 m of learning
+- SDG Indicator 2.c.1 - Food price anomalies [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=362) - 2 h 30 m of learning
+- SDG Indicator 6.4.2 - Level of water stress [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=365) - 2 h 30 m of learning
+- [FAO eLearning Academy]()
+- [FAO eLearning Academy]()
+
 ## Food
 - ✔️ [Transformation of the Global Food System](./food/totgfs.md) ~ University of Copenhagen
-- SDG Sub-indicator 12.3.1.a – Food Loss Index [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=605)
 
 
 ### The Economics of Agro-Food Value Chains
@@ -96,6 +113,18 @@
 4. Developing new business concepts
 5. FINAL PROJECT
 
+## Nutrition
+### Design and monitor nutrition-sensitive agriculture and food systems programmes
+[FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=603) - 4 h 30 m of learning
+
+1. Introduction: Agriculture-to-Nutrition Impact Pathways. Key concepts
+2. Step 1: Formulating nutrition-sensitive objectives and outcomes
+3. Step 2: Target the nutritionally vulnerable and prioritize interventions accordingly
+4. Step 3: Build your impact pathway
+5. Step 4: Define your implementation strategy
+6. Step 5: Design a monitoring system
+7. Step 6: Costing nutrition-related elements
+
 ## Climate
 ### Act on Climate: Steps to Individual, Community, and Political Action
 [coursera link](https://www.coursera.org/learn/act-on-climate) - Weeks:
@@ -106,6 +135,68 @@
 5. Built Environment
 6. Climate Action Plan
 7. Conclusion
+
+### Climate-smart crop production
+[FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=436) - 2 h 30 m of learning
+
+1. Introduction to climate-smart crop production
+2. Climate-smart crop production practices and technologies
+3. Climate-smart crop production systems in practice
+4. Creation of an enabling environment for climate-smart crop production
+
+### Climate-smart soil and land management
+[FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=435) - 2 h of learning
+
+1. Introduction to sustainable soil and land management
+2. Sustainable soil and land management in practice
+3. Strategies for sustainable soil and land management for climate-smart agriculture
+4. Creating an enabling environment for sustainable soil and land management.
+
+### Water management for climate-smart agriculture
+[FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=438) - 1 h 30 m of learning
+
+1. Water management
+2. Water management options for improving adaptation and building resilience to climate change
+3. Water management and climate change mitigations
+
+### Introduction to climate-smart agriculture
+[FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=439) - 1 h 30 m of learning
+1. Climate change and global warming
+2. Impacts of climate change on agriculture and food security
+3. Basics of adaption and mitigation in the agricultural sectors
+4. Climate-smart agriculture
+
+## GHG
+### Preparing a greenhouse gas inventory under the enhanced transparency framework
+[FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=618) 1 h 30 m of learning
+
+1. Introduction to reporting requirements under UNFCCC and the Enhanced Transparency Framework
+2. The national greenhouse gas inventory
+
+
+### The national greenhouse gas inventory (NGHGI) for land use
+[FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=650) - 15 h of learning
+
+1. Introduction
+2. Land representation – Stratification
+3. Land representation - Methodological approach
+4. C pools – Living biomass and dead organic matter
+5. C pools – Soil organic matter in mineral soils
+6. C pools – Soil organic matter in organic soils
+7. C pools – Harvested wood products
+8. Land use category – Forest land
+9. Land use categories – Cropland and grassland
+10. Land use category – Wetlands
+11. Land use categories – Settlements and other land
+
+### The national greenhouse gas inventory (NGHGI) for agriculture
+[FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=639) - 5 h 30 m of learning
+
+1. Introduction
+2. Livestock-related emissions
+3. Soil-related emissions: managed soils
+4. Soil-related emissions: rice cultivation, liming and urea fertilisation
+5. Identifying anticipatory action
 
 ## Circular Economy
 ### Circular Economy - Sustainable Materials Management
