@@ -7,8 +7,17 @@
 - [GHG](#ghg)
 - [Circular Economy](#circular-economy)
 - [Others](#others)
+- [Business](#business)
+- [Specializations](#specializations)
 
 ## General
+- 👉 [Sustainability of Social-Ecological Systems: the Nexus between Water, Energy and Food](./general/sos-es.md) ~ Universitat Autònoma de Barcelona
+- 👉 [The Sustainable Development Goals – A global, transdisciplinary vision for the future](./general/sdg-gtvf.md) ~ University of Copenhagen (10 hours)
+
+### Planetary Boundaries and Human Opportunities
+[UN SDG Learn](https://www.unsdglearn.org/courses/planetary-boundaries-and-human-opportunities/)
+1. Introduction and the Big Picture
+
 ### Introduction to Sustainability
 [coursera link](https://www.coursera.org/learn/sustainability) - Weeks:
 1. Orientation and Introduction
@@ -36,21 +45,6 @@
 4. Biodiversity Loss and Ecosystem Degradation
 5. Trade Offs and Synergies
 
-### The Sustainable Development Goals – A global, transdisciplinary vision for the future
-[coursera link](https://www.coursera.org/learn/global-sustainable-development) - Weeks:
-1. Sustainable Development as a Global Goal
-2. Managing human impacts on the natural world 
-3. Social sustainability and the way forward
-4. 
-### Become a Sustainable Business Change Agent Specialization
-[coursera link](https://www.coursera.org/specializations/sustainable-business-change-agent) - Courses:
-1. First Steps in Making the Business Case for Sustainability
-2. More on Change and Sustainability
-3. Sustainable Business: Big Issues, Big Changes
-4. Capstone: Creating A Sustainability Proposal
-
-- 👉 [Sustainability of Social-Ecological Systems: the Nexus between Water, Energy and Food](./general/sos-es.md) ~ Universitat Autònoma de Barcelona
-
 ### The Age of Sustainable Development
 [coursera](https://www.coursera.org/learn/sustainable-development)
 1. What is Sustainable Development?
@@ -68,8 +62,6 @@
 13. Saving Biodiversity
 14. The SDGs
 
-
-
 ## SDG Indicators Series
 **FAO eLearning Academy**:
 - SDG Sub-indicator 12.3.1.a – Food Loss Index [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=605)
@@ -82,11 +74,9 @@
 - SDG Indicator 2.a.1 - Agriculture orientation index [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=361) - 1 h 30 m of learning
 - SDG Indicator 2.c.1 - Food price anomalies [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=362) - 2 h 30 m of learning
 - SDG Indicator 6.4.2 - Level of water stress [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=365) - 2 h 30 m of learning
-- [FAO eLearning Academy]()
-- [FAO eLearning Academy]()
 
 ## Food
-- ✔️ [Transformation of the Global Food System](./food/totgfs.md) ~ University of Copenhagen
+- ✔️ [Transformation of the Global Food System](../moocs/food/totgfs.md) ~ University of Copenhagen
 
 
 ### The Economics of Agro-Food Value Chains
@@ -217,4 +207,55 @@
 4. Health effects of chemicals: How do we figure out how chemicals affect our health?
 5. Chemicals Policy: What do we do about chemicals & health?
 6. Case Studies
+
+## Business
+- [Sustainable Digital Innovation](./business/sdi.md) ~ EIT Digital (13 hours)
+
+### Sustainable Business Enterprises
+[coursera](https://www.coursera.org/learn/sustainable-business-enterprises)
+
+21 hours to complete - University of Illinois at Urbana-Champaign
+
+• Understand the importance of sustainability for business 
+• Analyze   specific topics including consumer behavior, market research, product design, value chains and communications using the sustainability lens in business 
+• Design solutions and develop enterprise plans for sustainable business initiatives 
+• Apply the bottom-up approach for sustainable business initiatives in varied contexts
+
+Syllabus: 
+1. Sustainability and Consumption
+2. Sustainable Product Design and Market Research
+3. Sustainable Value Chains and Communications
+4. BOTTOM-UP ENTERPRISE
+
+## Specializations
+### Become a Sustainable Business Change Agent Specialization
+[coursera link](https://www.coursera.org/specializations/sustainable-business-change-agent)
+
+40 hours to complete (5 months, 2 hours week)
+
+There are 4 Courses in this Specialization:
+1. First Steps in Making the Business Case for Sustainability
+2. More on Change and Sustainability
+3. Sustainable Business: Big Issues, Big Changes
+4. Capstone: Creating A Sustainability Proposal
+
+### Global Challenges in Business Specialization
+[coursera](https://www.coursera.org/specializations/global-challenges-business)
+
+Learning Outcomes for the Specialization:
+- Understand how businesses function in the global marketplace.
+- Make ethical decisions to run a responsible business in the global marketplace.
+- Understand the role of business in addressing global challenges such as poverty and the environment.
+- Understand how business can pursue opportunities and confront challenges in the complex global marketplace.
+
+This specialization covers how business strategy is formulated and implemented in the global arena in all its complexities. It also covers the role of ethics and corporate responsibility in a connected world as well as the role of business in addressing global challenges such as poverty and the environment. The specialization enables understanding of global business and how to pursue opportunities and confront challenges in this arena responsibly.
+
+There are 7 Courses in this Specialization
+1. Sustainable Innovation for Subsistence Marketplaces
+2. Sustainable Business Enterprises
+3. Global Strategy I: How The Global Economy Works
+4. Global Strategy II: Doing Business in The Global Economy
+5. Global Impact: Cultural Psychology
+6. Global Impact: Business Ethics
+7. Global Challenges in Business Capstone
 

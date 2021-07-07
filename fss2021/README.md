@@ -6,7 +6,7 @@
 - [Events: From educational webinars to global summits](./events/README.md)
 - [Community](./community/README.md)
 
-## 20/80 Reading Rule
+## 20/80 Reading Rules
 - read fast, check slow
 - if 20% content looks like will produce 80% results
   - create one page summary

@@ -5,6 +5,11 @@ Our goal is to achieve food security for all and make sure that people have regu
 ## Documents
 - Sustainable diets and Biodiversity
 - Plates, pyramids, planet - check page 68
-- 2020 The state of food security and nutrition in the world
+- SOFI 2020: The state of food security and nutrition in the world, Transforming Food Systems for Affordable Healthy Diets
+- Sustainable healthy diets – Guiding principles
+- Transforming food and agriculture to achieve the SDGs: 20 interconnected actions to guide decision-makers. Available at: http://www.fao.org/3/I9900EN/i9900en.pdf.
+- The 10 elements of agroecology guiding the transition to sustainable food and agricultural systems. Available at: http://www.fao.org/3/i9037en/I9037EN.pdf
+- Food losses and waste in the context of sustainable food systems. A report by the High Level Panel of Experts on Food Security and Nutrition of the Committee on World Food Security, Rome 2014. http://www.fao.org/3/a-i3901e.pdf
+- 
 
 
