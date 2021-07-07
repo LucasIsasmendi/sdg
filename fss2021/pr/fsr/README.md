@@ -13,6 +13,7 @@ These are all relevant publications [link](https://sc-fss2021.org/materials/publ
 
 **Briefs by Partners**:
 - ✅ [In the age of pandemics, connecting food systems and health: a Global One Health approach](#in-the-age-of-pandemics-connecting-food-systems-and-health-a-global-one-health-approach)
+- [The Bioeconomy and Food Systems Transformation](#the-bioeconomy-and-food-systems-transformation)
 
 **Reports/books**:
 - [ECDPM (2020) The Food Systems Approach in Practice: Our Guide for Sustainable Transformation](#ecdpm-2020the-food-systems-approach-in-practice-our-guide-for-sustainable-transformation)  
@@ -22,7 +23,7 @@ These are all relevant publications [link](https://sc-fss2021.org/materials/publ
 
 ### In the age of pandemics, connecting food systems and health: a Global One Health approach
 - source: [pdf - February 15, 2021](https://sc-fss2021.org/wp-content/uploads/2021/03/FSS_Brief_Pandemics_Food_Systems_One_health.pdf)
-- [my resume](./1-swr/bbposg.md#1)
+- [my resume](./1-swr/bbposg.md#in-the-age-of-pandemics-connecting-food-systems-and-health-a-global-one-health-approach)
 
 Local, regional and global food security are affected by the occurrence of epidemics of zoonotic infectious diseases, caused by pathogens that spillover from animals to humans. Currently, this is clearly illustrated by the COVID-19 crisis.
 
@@ -32,6 +33,11 @@ Here, we discuss the link between global food security and healthy people, anima
 
 
 ### The Bioeconomy and Food Systems Transformation
+- source: [pdf - February, 17, 2021](https://sc-fss2021.org/wp-content/uploads/2021/03/FSS_Brief_Bioeconomy_and_Food_Systems_Transformation.pdf)
+- [my resume](./1-swr/bbposg.md#the-bioeconomy-and-food-systems-transformation)
+
+“bioeconomy is the production, utilization and conservation of biological resources, including related knowledge, science, technology, and innovation, to provide information, products, processes and services across all economic sectors aiming toward a sustainable economy”
+
 
 ## Reports/books
 ### ECDPM (2020) The Food Systems Approach in Practice: Our Guide for Sustainable Transformation

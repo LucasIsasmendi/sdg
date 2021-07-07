@@ -87,7 +87,7 @@ Focus on thriving and balance, within the social and the ecological boundaries o
 ### The food system and its links
 - How are each of the Earth System components, which are depicted and conceptualized through the planetary boundaries (see figure below), connected to our food systems? (read Campbell et al. 2017)
 
-<img src="../food/img/totgfs-1.2-agriculture%20and%20planetary%20boundaries.png" width="50%">
+<img src="../moocs/food/img/totgfs-1.2-agriculture-and-planetary-boundaries.png" width="70%">
 
 Why won’t new technologies alone solve the challenges in front of us? (Hints: Think, for example, of biodiversity loss and [Jevon’s Paradox](#jevons-paradox))
 
@@ -430,7 +430,7 @@ With the scale of aquacultural production today, massive amounts of protein are 
 [link](https://ourworldindata.org/food-choice-vs-eating-local)
 
 totgfs-5.5-env-impact-of-food-by-life-cycle-stage
-<img src="../food/img/totgfs-5.5-env-impact-of-food-by-life-cycle-stage.png" width="90%">
+<img src="../moocs/food/img/totgfs-5.5-env-impact-of-food-by-life-cycle-stage.png" width="90%">
 
 **Eating local** is a recommendation you hear often. While it might make sense intuitively – after all, transport does lead to emissions – it is one of the most misguided pieces of advice.
 Eating locally would only have a significant impact if transport was responsible for a large share of food’s final carbon footprint. For most foods, this is not the case.
@@ -555,7 +555,10 @@ The good news is that all five courses can close the gaps, while delivering co-b
 The term `Jevons Paradox` flags the need to consider the different hierarchical scales at which a system under analysis changes its identity in response to an innovation.
 When studying evolution and real change how can we define “what has to be sustained” in a system that continuously becomes something else?
 
+👉 **To Be Completed**
+
 ### impact of agriculture on the planetary boundaries
+👉 **To Be Done**
 
 ### Global Sustainable Development Report 2019 - Chaper 2.7
-
+👉 **To Be Done**

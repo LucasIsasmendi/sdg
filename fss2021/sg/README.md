@@ -4,6 +4,7 @@
 These papers are shared to provide information and facilitate discussion for transparent and evidence-based Summit preparations.
 - ✅ [Healthy diet: A definition for the United Nations Food Systems Summit 2021 (March 2021)](#healthy-diet-a-definition-for-the-united-nations-food-systems-summit-2021-march-2021)
 - ✅ [Food Systems – Definition, Concept and Application for the UN Food Systems Summit (March 2021)](#food-systems--definition-concept-and-application-for-the-un-food-systems-summit-march-2021)
+- [The True Cost and True Price of Food (June 1, 2021)](#the-true-cost-and-true-price-of-food-june-1-2021)
 
 **Action Track Papers**:
 - ✅ [Track 1](#track-1): `Ensuring Access to Safe and Nutritious Food for All Through Transformation of Food Systems (March 2021)`
@@ -97,6 +98,110 @@ In addition, reduction of risks and the fostering of **food systems’ resilienc
 
 ### Concluding Remarks 
 Food systems transformation has to have a perspective on where we want to be headed. We then need to understand what is entailed in the transition to desirable food systems, and how to facilitate the evolution of such food systems. Thus, a vision for food systems transformation is required, and pursued with a strong sense of urgency. 
+
+## The True Cost and True Price of Food (June 1, 2021)
+One of the central problems of current food systems is that many of the costs of harmful foods are externalized, i.e. are not reflected in market prices (it will be 3x expensive). At the same time, the benefits of healthful foods are not appreciated. Due to externalities, sustainable and healthy food is often less affordable to consumers and profitable for businesses than unsustainable and unhealthy food. 
+
+More studies are needed to quantify the costs and benefits of food systems to support a global shift to more sustainable and healthy diets. We need a system reset to account for these `hidden costs` in food systems and calls for bold actions to redefine food prices and the incentives for producing and consuming healthier and more sustainable diets. 
+
+1. redefine the value of food through `True Cost Accounting (TCA)` to address externalities and other market failures, revealing the costs of damage to the environment and human health.
+2. `true pricing`: incorporating externalities in prices to align market incentives with social values. Appropriate safety nets to boost consumer purchasing power and the enforcement of rights and regulations
+
+### Introduction
+Ensuring sustainable food systems entails ensuring that food systems provide affordable and healthy food to all people while respecting planetary and social boundaries. Current food systems are not sustainable.
+
+Increasing the consumption of healthy, protective foods such as fruits and vegetables, legumes, nuts and seeds will address multiple health-related issues.
+
+The economic value of food, which drives economic choices by businesses, consumers and governments, is highly distorted.
+
+### The externalities as barriers to sustainable food systems
+Externalities refer to "situations when the effect of production or consumption of goods and services imposes costs or benefits on others which are not reflected in the prices charged for the goods and services being provided". 
+For example, greenhouse gas emissions from one person’s actions affect people far away and future generations who have no say in those decisions. Externalities can also be beneficial, such as disease prevention that lowers health care costs.
+In addition, to monopoly and monopsony, a lack of information or behavioral biases, can lead consumers to ignore costs and benefits of their decisions. 
+
+Externalities create significant problems in food systems: environmental, social, health, economic.
+
+The first problem is that externalities prevent societies from achieving their full potential by distorting the information about the value of food conveyed by market prices. The market price of products does not reflect its true costs and benefits. Also, the value of companies and their decisions reflect expected future profits (cost of outputs - inputs). If a company contributes to climate change, underpays workers or enables healthy and affordable food, this is not reflected in its profit. The financial value of investments does not reflect the actual value that these investments benefit society.
+The degree to which the food systems contribute to climate change, deforestation or poor health is not factored into crucial economic indicators for policymakers, like GDP.
+
+A second problem with (negative) externalities is social injustice.
+The erosion of natural capital breaches the rights of future generations to decent livelihoods.
+
+The third problem with externalities is that they inadvertently reward unsustainable, unaffordable and unhealthy food production and consumption. As natural, health and social costs are externalised, it is more profitable to produce unsustainable and unhealthy food.
+At the same time, adding calories, salt, poor quality fats, sugars and harmful sugar alternatives to food items and promoting such foods can increase sales despite the negative effects on health.
+In the same way, encouraging high levels of food waste, e.g. through appealing packaging, can increase sales. Moreover, firms have no incentive to make healthy food affordable.
+Businesses set prices to optimize their business profit, sometimes using inflated prices as signals of healthy food. As a result, sustainable and healthy food is more expensive to buy than unhealthy food.
+
+Given that global capital markets allocate capital based on financial returns, most capital will flow to the most successful companies in externalising costs to optimize profit.
+In an economy where consumers maximize purchasing power, businesses maximize profits, investors maximize returns, the result is underproduction of food leading to waste, overuse of natural resources and overconsumption of unhealthy food.
+
+In summary, externalities form a significant barrier to the transition to sustainable food systems. It is difficult to imagine how policies aiming to foster sustainable food systems will be successful in an economic system where the erosion of natural capital, breaches of human rights, and unhealthy food are permissible and strongly incentivized.
+
+### True Cost Accounting (TCA): Redefining the value of food
+A first step to address externalities is to expose them and redefine the value of food by TCA: a tool for the systemic measurement and valuation of environmental, social, health and economic costs and benefits to facilitate sustainable choices by governments and food system stakeholders
+
+TCA can serve different purposes, where different actors have different applications:
+- Governments: integration into local, national or regional policy and budgeting
+- Businesses: use assessments to minimize negative impacts and enhance positive benefits across value chains
+- Financial institutions: reporting, impact investment and risk assessment
+- Farmers: means to account for the costs and benefits of their agricultural practices 
+- Consumers: become aware of the environmental and social externalities embedded in the food they buy
+
+TCA recognises that the economy's productive assets go beyond the assets currently accounted for and include natural, social and human capital. Typically starts by identifying the goal and scope of the assessment, establishing the unit of analysis and the system boundaries.
+
+The quantification of carbon emissions is relatively mature, whereas the quantification of health externalities is quite young and involves substantial uncertainty. There is limited information available at this scale due to the young nature of TCA, the complexity of food chains and the large variety of disciplines and data required. 
+
+### Redesigning the economics of food: True pricing
+Once we understand the true cost of food, food system transformation requires a redesign of the economics of food through true pricing - the integration of externalities in prices. 
+True pricing can incentivise the private sector to provide more beneficial externalities from healthy, sustainable food production and consumption. 
+
+Challenge - putting theory into practice: how to reliably measure, trace and account for externalities throughout the entire value chain of food products.
+Recent advances in digital technology, environmental science and economics may allow businesses and governments to apply TCA and true pricing: up-to-date primary and real-time data, sensor technologies, tracing, blockchain, Big data.
+
+Citizens and consumers are interested in externalities. The majority of people are not selfish but have (conditional) pro-social preferences and are interested in sustainability, but price plays a foundational consideration in consumption choices.
+Government intervention and international frameworks and agreements are likely required to fully internalise externalities.
+However, international trade regulations are a constraint to such change. The World Trade Organisation (WTO) rules impose economic competition strictly based on prices and do not consider externalities.
+
+We need structural changes to higher productivity, sustainable and skill-intensive activities.
+Agroecological systems are more likely to provide diversified food (contributing to healthy diets) with a lower environmental footprint. However, in some cases, organic farms have relatively large emissions of GHGs per unit product.
+
+First-best true pricing mechanisms could support fully sustainable food systems. However, there are still substantial technological and political constraints to implement them:
+- Technology to collect and trace externalities along the value chain
+- Modernising the implementation of fiscal systems
+- Integrating true pricing into international trade agreements
+- Creating popular understanding and support for true pricing
+
+Second-best policies effectively incentivise sustainable, healthy and affordable food without imposing significant administrative burdens or complexities.
+A 10% decrease in price increased the consumption of healthful foods by 13%.
+
+### Estimating the true costs of food systems in the context of the UNFSS aspirations
+Vast majority of environmental externalities are in the primary process. 
+The annual true cost of food for the globe is 3.2 times higher that the current cost at market prices.
+
+Among the highest environmental costs are GHG emissions leading to climate change; land use and land-use change leading to loss of ecosystems and biodiversity, and air pollution leading to, amongst others, loss of biodiversity and human health.
+Note that the health costs are borne by the current population, whereas a significant part of the environmental costs will be carried by future generations.
+Quantifying and valuing the health impacts of diets is a novel field. Currently, no quantified dietary guide is available to support the analysis of achieving the ambitions of the UNFSS. 
+
+### Potential benefits of transitions to more sustainable diets
+Effective policy interventions to redesign the economics of food also require an understanding of the effects of possible transitions on environmental and health externalities as well as affordability. 
+The EAT-Lancet pescatarian, vegetarian and vegan diets offer a comparison to a healthy reference diet.
+
+### Towards science-based and pragmatic true pricing mechanisms
+In a fully sustainable food system, all people can afford healthy and sustainable food. If the damage to nature is paid for and restored in a sustainable food system, food production costs will increase providing an incentive to reduce the environmental footprint.
+
+### Recommendations
+In the short term, policymakers can remove the barriers for stakeholders to engage in TCA and use TCA data to redefine the value of food to reflect its true costs and benefits. In particular, governments and other UNFSS stakeholders can:
+- Foster internationally accepted harmonized TCA principles across all applications
+- Educate and build capacity among professionals in business and government about TCA
+- Provide professionals in business and governments with concrete tools to facilitate TCA
+
+In the medium and long term, governments can look at ways to integrate TCA in economic metrics at all levels systematically:
+- National Accounts and GDP
+- business sustainability reporting and controls
+- product labelling
+
+### Annex 1: How does True Cost Accounting work?
+
 
 ## Track 1
 **`Ensuring Access to Safe and Nutritious Food for All Through Transformation of Food Systems (March 2021)`**
