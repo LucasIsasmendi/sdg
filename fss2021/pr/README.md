@@ -1,15 +1,13 @@
-# FSS21
+> **Publications and Reports of relevance for Food Systems Summit**
 
-## Publications and Reports of relevance for Food Systems Summit
-
-### Food systems research
-- [1. Systems-wide research](./fsr/README.md#1-systems-wide-research)
+## Food systems research
+- [1. Systems-wide research](/fss2021/pr/fsr/1-swr/bbposg.md)
 - [2. Agriculture and Food Industries](./fsr/README.md#2-agriculture-and-food-industries)  
 - [3. Markets, Infrastructure and Services](./fsr/README.md#3-markets-infrastructure-and-services)  
 - [4. Consumption, Nutrition and Health](./fsr/README.md#4-consumption-nutrition-and-health)  
 - [5. Income and Employment](./fsr/README.md#5-income-and-employment)  
 
-### Action tracks related papers
+## Action tracks related papers
 - [1. Ensuring Access to Safe and Nutritious Food for All](./atrp/README.md#1-ensuring-access-to-safe-and-nutritious-food-for-all)  
 - [2. Shifting to Sustainable Consumption Patterns](./atrp/README.md#2-shifting-to-sustainable-consumption-patterns)  
 - [3. Boosting Nature Positive Production at Sufficient Scale](./atrp/README.md#3-boosting-nature-positive-production-at-sufficient-scale)  

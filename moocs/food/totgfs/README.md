@@ -2,12 +2,12 @@
 [coursera](https://www.coursera.org/learn/transformation-global-food-system)
 
 **Weeks**  
-[1. Introduction to the Global Food System](#1-introduction-to-the-global-food-system)  
-[2. Boosting the Small](#2-boosting-the-small)  
-[3. Transforming the big](#3-transforming-the-big)  
-[4. Losing less](#4-losing-less)  
-[5. Eating Smarter ](#5-eating-smarter)   
-[6. Conclusion: What does transformation really mean?](#6-conclusion-what-does-transformation-really-mean)  
+[1. Introduction to the Global Food System](#_1-introduction-to-the-global-food-system)  
+[2. Boosting the Small](#_2-boosting-the-small)  
+[3. Transforming the big](#_3-transforming-the-big)  
+[4. Losing less](#_4-losing-less)  
+[5. Eating Smarter ](#_5-eating-smarter)   
+[6. Conclusion: What does transformation really mean?](#_6-conclusion-what-does-transformation-really-mean)  
 
 ## 1. Introduction to the Global Food System
 ### Transformation of the global food system - Introduction
@@ -54,7 +54,7 @@ As young protesters cry across the globe: There is no planet B!
 - [Read about the impact of agriculture on the planetary boundaries here - Campbell et al. 2017](https://www.jstor.org/stable/26798991).
 
 totgfs-1.2-agriculture and planetary boundaries
-<img src="../food/img/totgfs-1.2-agriculture%20and%20planetary%20boundaries.png" width="90%">
+<img src="../moocs/food/totgfs/img/totgfs-1.2-agriculture-and-planetary-boundaries.png" width="90%">
 
 ### TED talk (Video): Kate Raworth – A healthy economy should be designed to thrive, not grow
 
@@ -87,7 +87,7 @@ Focus on thriving and balance, within the social and the ecological boundaries o
 ### The food system and its links
 - How are each of the Earth System components, which are depicted and conceptualized through the planetary boundaries (see figure below), connected to our food systems? (read Campbell et al. 2017)
 
-<img src="../moocs/food/img/totgfs-1.2-agriculture-and-planetary-boundaries.png" width="70%">
+<img src="../moocs/food/totgfs/img/totgfs-1.2-agriculture-and-planetary-boundaries.png" width="70%">
 
 Why won’t new technologies alone solve the challenges in front of us? (Hints: Think, for example, of biodiversity loss and [Jevon’s Paradox](#jevons-paradox))
 
@@ -430,7 +430,7 @@ With the scale of aquacultural production today, massive amounts of protein are 
 [link](https://ourworldindata.org/food-choice-vs-eating-local)
 
 totgfs-5.5-env-impact-of-food-by-life-cycle-stage
-<img src="../moocs/food/img/totgfs-5.5-env-impact-of-food-by-life-cycle-stage.png" width="90%">
+<img src="../moocs/food/totgfs/img/totgfs-5.5-env-impact-of-food-by-life-cycle-stage.png" width="90%">
 
 **Eating local** is a recommendation you hear often. While it might make sense intuitively – after all, transport does lead to emissions – it is one of the most misguided pieces of advice.
 Eating locally would only have a significant impact if transport was responsible for a large share of food’s final carbon footprint. For most foods, this is not the case.
@@ -538,7 +538,9 @@ GHG emissions from agricultural production arise from livestock farming, applica
 These menu items are not optional—the world must implement all 22 of them to close the food, land and GHG mitigation gaps.
 The good news is that all five courses can close the gaps, while delivering co-benefits for farmers, society and human health. 
 
-<img src="../food/img/totgfs-6rm-wrr-5-courses.png" width="90%">
+<img src="../moocs/food/totgfs/img/totgfs-6rm-wrr-5-courses.png" width="90%">
+
+****
 
 # Link Material
 **Index**
@@ -546,8 +548,8 @@ The good news is that all five courses can close the gaps, while delivering co-b
 - impact of agriculture on the planetary boundaries
 - Global Sustainable Development Report 2019 - Chaper 2.7
 
-## W1
-### Jevons Paradox
+****
+## Jevons Paradox
 > Unraveling the Complexity of the Jevons Paradox: The Link Between Innovation, Efficiency, and Sustainability
 
 [link](https://www.frontiersin.org/articles/10.3389/fenrg.2018.00026/full)

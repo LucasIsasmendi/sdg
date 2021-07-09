@@ -1,14 +1,8 @@
-# SDG
-Some personal notes and insights based on research and documents from UN Sustainable Ddevelopment Goals.
-I am learning to understand one of the most threatening habits of human kind: food
+# Kuizen Knowledge Base
+## Overview
+This is a repository to share the knowledge that nurtures [kuizen.org](https://kuizen.org/); a project to develop **the food system that will restore our planetary health**.
 
-I am using these as an input to improve my personal project **Kuizen: Web Tools For A Plant-Based Food System** 
-
-> You can now more about it at https://kuizen.org/
-
-- [Moocs](./moocs/readme.md)
-- [Food Systems Summit - 2021](./fss2021/README.md)
-- [Food and Agriculture Organization (FAO) UN](./fao/README.md)
+We check [UN Food Systems Summit 2021](https://www.un.org/en/food-systems-summit),books, papers, reports, publications, MOOCs, podcasts, events.
 
 ## Emoji Guide
 ### About Actions
@@ -22,9 +16,6 @@ I am using these as an input to improve my personal project **Kuizen: Web Tools 
 - 🧪  Labs
 - 🔖  To put in paper
 - 🗒️  In paper
-- 📡  New Application
-- 💻  To Develop as new feature
-- 📲  Feature already included
 
 ### About Content
 - 💬  Comments
@@ -37,3 +28,8 @@ I am using these as an input to improve my personal project **Kuizen: Web Tools 
 - 📗  Book (more than 100 pages)
 - 🗄️  Site with Researchs and Papers
 - 🧰  Tools
+
+### About Development
+- 📡  New Application
+- 💻  To Develop as new feature
+- 📲  Feature already included

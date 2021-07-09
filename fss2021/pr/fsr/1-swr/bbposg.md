@@ -5,13 +5,15 @@
 ### 1. callenges
 - Interconnection between ecosystems, human and animal health - zoonotic infectious diseases
 - Poor human health facilitates infectious disease spread: Similar to other infectious diseases, COVID-19 disproportionately affects those with poor nutritional status and underlying health issues.
+
 ### 2. impacts of zoonotic infectious diseases on food secutiy
 - direct: disrupt the workforce, supply chain and movement of goods
 - indirect impacts: disrupt the livelihoods of ~ 1 billion people with jobs in the food value chain
 - SARS-CoV-2 and other infectious pathogens in the food chain
   - can be transmitted via many different routes, including water and food products natural/frozen.
   - the range and outbreak frequencies of these disruptors of the food supply chain and health are expected to change due to the effects of climate change.
-###  3. Adapting the agri-food to limit pathogen risk
+
+### 3. Adapting the agri-food to limit pathogen risk
 - reducing the need for natural habitat disruption through sustainable intensification of land use 
 - smart management and vigilance at the interfaces by surveillance and readiness to intervene
 - improving overall human, animal and environmental health, a Global One Health approach

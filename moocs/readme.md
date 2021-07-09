@@ -11,8 +11,8 @@
 - [Specializations](#specializations)
 
 ## General
-- 👉 [Sustainability of Social-Ecological Systems: the Nexus between Water, Energy and Food](./general/sos-es.md) ~ Universitat Autònoma de Barcelona
-- 👉 [The Sustainable Development Goals – A global, transdisciplinary vision for the future](./general/sdg-gtvf.md) ~ University of Copenhagen (10 hours)
+- 👉 [Sustainability of Social-Ecological Systems: the Nexus between Water, Energy and Food](/moocs/general/sos-es.md) ~ Universitat Autònoma de Barcelona
+- 👉 [The Sustainable Development Goals – A global, transdisciplinary vision for the future](/moocs/general/sdg-gtvf.md) ~ University of Copenhagen (10 hours)
 
 ### Planetary Boundaries and Human Opportunities
 [UN SDG Learn](https://www.unsdglearn.org/courses/planetary-boundaries-and-human-opportunities/)
@@ -76,7 +76,7 @@
 - SDG Indicator 6.4.2 - Level of water stress [FAO eLearning Academy](https://elearning.fao.org/course/view.php?id=365) - 2 h 30 m of learning
 
 ## Food
-- ✔️ [Transformation of the Global Food System](../moocs/food/totgfs.md) ~ University of Copenhagen
+- ✔️ [Transformation of the Global Food System](/moocs/food/totgfs/README.md) ~ University of Copenhagen
 
 
 ### The Economics of Agro-Food Value Chains

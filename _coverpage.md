@@ -8,4 +8,4 @@
 - Events, Organizations
 
 [Kuizen](https://kuizen.org)
-[Get Started](#docsify)
+[Get Started](#kuizen-knowledge-base)
