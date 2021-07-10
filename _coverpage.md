@@ -1,6 +1,6 @@
 ![logo](./docsify/assets/media/kbase.svg)
 
-# Knowledge Base <small>kuizen notes</small>
+# Knowledge Base <small>kuizen</small>
 
 > Everything we learn about sustainable food systems.
 - Papers, Researchs, Books, Publications

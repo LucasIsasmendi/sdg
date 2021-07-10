@@ -1,8 +1,7 @@
-# FOOD SYSTEMS SUMMIT ACTION TRACK 2 - PUBLIC FORUM 2 - 3 FEBRUARY 2021
-
-> Summary Report & Responses to All Questions
-
-AT2-2nd-Public-Forum-Report.pdf
+# AT#2 > Public Forum #2
+> **Summary Report & Responses to All Questions**
+> - **date**: `3 FEBRUARY 2021`
+> - **source**: `AT2-2nd-Public-Forum-Report.pdf`
 
 The top 10 most well represented countries at the forum were Myanmar, USA, Italy, UK, Nepal, Norway, Sweden, Australia, Kenya, and Canada.
 
@@ -13,7 +12,7 @@ Chef Gayatri concluded by highlighting the need for consumers to engage with far
 
 Mr. Newnham also encouraged participants to share their own solutions using the Public Survey, and thanked those who had already done so (around 350 respondents). He explained the criteria of assessment for these solutions: impact, actionability and sustainability. Once assessed, these solutions would be posted in the Food Systems Community platform, where people can engage with the work streams and with one another. These solutions would then also be made available to the public.
 
-### WS1
+## WS1
 The members of Work Stream 1 **`(WS1) on Food Environment`** then presented their solution. Jian Yi, President of the Good Food Fund in China and the lead for WS1, introduced the solution, developed by Patrick Webb: linking consumers directly to farmers, through institutional pathways such as public procurement.
 
 The first to comment on the solution was Lucy Westerman:
@@ -30,7 +29,7 @@ leveraging other measures through public procurement, which could stimulate prod
 
 Regarding the communication strategy, Mr. Yi spoke about the synergies between `WS1` (food environment) and `WS2` (food demand), and how changing consumer behaviour would require interventions in both areas.
 
-### WS2
+## WS2
 Daniel Vennard (Better Buying Lab) and Luke Spajic (UN Sustainable Development Solutions Network – Youth), were the next to present their solution for **`WS2 on Food Demand`**: incorporating sustainability into national dietary guidelines.
 Ms. Graf (UNFCCC) mentioned
 1. it does not consider that dietary guidelines do not usually influence individual or institutional food choices.
@@ -39,7 +38,7 @@ Ms. Graf (UNFCCC) mentioned
 
 Dr. Branca (UN anchor agency for AT2) pointed out that dietary guidelines are not just for consumers, they also inform several national nutrition policies and programmes. While many countries (90-120) have dietary guidelines, very few of them actually utilise them in designing programmes for, say, public procurement. Thus, if dietary guidelines could actually be translated into policies, it would have major impacts on health, food systems and the economy.
 
-### WS3
+## WS3
 Liz Goodwin (WRI - Food Loss and Waste), the deputy lead for **`WS3 on Food Waste`**, and Roman Davas-Fahey (Climate-Proof Food), a youth member of WS3, then presented their solution.
 Ms. Goodwin began by highlighting that for many governments across the world, food waste and loss are not high priorities. However, these are complex issues that require collaboration between government, private sector and civil society.
 The solution proposed, 50 by 50 by 30, involved getting 50 countries to commit to halving their food waste by 2030.
@@ -53,7 +52,7 @@ Emeline Fellus (FReSH project - WBCSD), member of WS1, then gave her views on th
 
 Ms. Goodwin responded to the comments by acknowledging the importance of the target, measure and act approach, which would help understand the specific problems and focus on a solution accordingly. Concerning stakeholder engagement, she mentioned that the solution needs to benefit all stakeholders in the supply chain. In terms of measurement, efforts should be made to improve the ease of use of indices such as the Food Waste Index to be released by UN Environment and the Food Loss Index. Mr. Davas-Fahey suggested that resources and infrastructure could be exported to help low-income countries deal with post-harvest losses, which could have been exacerbated by the pandemic. He also agreed that industrialised agriculture, which is an inefficient form of production, should be considered a form of waste.
 
-### End
+## End
 The session was then concluded by Paul Newnham and Dr. Gunhild Stordalen, the Founder and Executive Chair of EAT and the Chair for Action Track 2. Mr. Newnham encouraged the participants to continue their engagement with the summit process by sharing their ideas through the Public Surveys. the Food Systems Summit is an occasion for dugnad (a Norwegian word that represents people coming together and contributing to a greater good). Thus, the Summit would collaborate with all food system actors to commit to meaningful actions. Ultimately, the success of the summit would be measured by how the solutions on paper are translated into game-changing actions on the ground.
 
 ## Q&A

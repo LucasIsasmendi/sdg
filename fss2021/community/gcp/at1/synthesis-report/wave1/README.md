@@ -1,7 +1,7 @@
 # Community > Docs > AT1
-# Synthesis Report of Game Changing Solutions - Wave 1
-- **source**: `AT1_Synthesis_of_Propositions_Wave1.pdf`
-- **date**: `19 February 2021`
+> **Synthesis Report of Game Changing Solutions - Wave 1**
+> - **source**: `AT1_Synthesis_of_Propositions_Wave1.pdf`
+> - **date**: `19 February 2021`
 
 ## Introduction
 ### Goals
@@ -70,6 +70,7 @@ Within the leadership team, work is divided into three working groups aligning t
      - impact:
      - actionability:
      - sustainability:
+
 ## Potential Solutions for Making Food Safer
 
 ## Potential Cross-Cutting Solutions

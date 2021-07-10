@@ -1,7 +1,7 @@
 # Community > Docs > AT2
-# Synthesis Report of Game Changing Solutions - Wave 1
-- **source**: `AT2-_Synthesis_of_Propositions_Wave1.rev_.pdf`
-- **date**: `23 February 2021`
+> **Synthesis Report of Game Changing Solutions - Wave 1**
+> - **source**: `AT2-_Synthesis_of_Propositions_Wave1.rev_.pdf`
+> - **date**: `23 February 2021`
 
 ## Introduction
 

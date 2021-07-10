@@ -1,27 +1,28 @@
 # Community > Docs > AT2
-# Synthesis Report of Game Changing Solutions - Wave 2
-- **source**: `AT2-second-wave-of-solutions-synthesis-report.pdf`
-- **date**: `21 May 2021`
+> **Synthesis Report of Game Changing Solutions - Wave 2**
+> - **source**: `AT2-second-wave-of-solutions-synthesis-report.pdf`
+> - **date**: `21 May 2021`
 
 This document reflects the ‘second wave’ of solution propositions emerging from the work of Action Track 2 as of 21 May 2021.
 
+## Summary
 **Summary of Wave 2 ideas**:  
 1. **Marketing and advertising**
-   - [1.1](#solution-11---demand-generation-for-healthy-and-sustainable-food) Need to make nutritious foods from sustainable food systems the preferred choice for consumers => shape society-wide consumer preferences
+   - [1.1](#solution-11-demand-generation-for-healthy-and-sustainable-food) Need to make nutritious foods from sustainable food systems the preferred choice for consumers => shape society-wide consumer preferences
    - 1.2: Meat consumption is frequently associated with masculinity, which produces overconsumption and production: unhealthy and unsustainable => campaign to dissociate meat consumption and masculinity
    - 1.3: transparent and useful information on nutrition and sustainability is rarely available to consumers, hard to change habits to healthier and sustainable products => regulate marketing, add new tools and incentives, unify product labelling, consumer rights
-   - [1.4](#solution-14---investing-in-better-public-sector-marketing): motivate and empower consumers so they seek nutrition information in the food environment => promotion of healthy diets from sustainable production systems by restricting marketing that promotes unhealthy diets. Taxes on advertising that promotes unhealthy diets.
+   - [1.4](#solution-14-investing-in-better-public-sector-marketing): motivate and empower consumers so they seek nutrition information in the food environment => promotion of healthy diets from sustainable production systems by restricting marketing that promotes unhealthy diets. Taxes on advertising that promotes unhealthy diets.
 2. **Supply Chains**
-   - [2.1](#solution-21---campagna-amica): gap between producers and consumers => improve consumer information, awareness, and education; promote local agriculture, reduce transportation, waste, packaging, more. Example: Campagna Amica
-   - [2.2](#solution-22---supporting-short-food-supply-chains): Food supply chains have become increasingly complex, with more processing and transportation stages => complementary short food supply chains: farmer to consumer sales
+   - [2.1](#solution-21-campagna-amica): gap between producers and consumers => improve consumer information, awareness, and education; promote local agriculture, reduce transportation, waste, packaging, more. Example: Campagna Amica
+   - [2.2](#solution-22-supporting-short-food-supply-chains): Food supply chains have become increasingly complex, with more processing and transportation stages => complementary short food supply chains: farmer to consumer sales
 3. **Blue Food**
    - 3.1: overexploitation and illegal practices => food security kitemark “no harm”
 4. **Finance and investments**
    - 4.1: challenges to financing transition steps to food system transformation => The World Bank’s new Food Systems 2030 Trust Fund for food systems transition will capture these impacts
 5. **Appropriate food processing**
-   - [5.1](#solution-51---microbiome-based-nutritional-intervention): understanding of microbiome to solve malnutrition => functional foods (food as medicine) to help combat malnutrition. Increased role of microbiome insight in food safety and regulation
-   - [5.2](#solution-52---government-led-reformulation-of-packaged-food-products): Limited awareness of the different levels of food processing (from minimal to ultra) and their impacts on nutritional value and dietary health => dietary guidelines should emphasize preference for fresh or minimally processed foods and the avoidance of ultra-processed foods. The food manufacturing industry should develop or improve alternatives to ultra-processing of food.
-   - [5.3](#solution-53---emphasis-on-appropriate-food-processing-in-all-food-and-nutrition-policies): Limited awareness of the different levels of food processing (from minimal to ultra) and their impacts on nutritional value and dietary health => preference for fresh or minimally processed foods and the avoidance of ultra-processed foods on dietary guidelines
+   - [5.1](#solution-51-microbiome-based-nutritional-intervention): understanding of microbiome to solve malnutrition => functional foods (food as medicine) to help combat malnutrition. Increased role of microbiome insight in food safety and regulation
+   - [5.2](#solution-52-government-led-reformulation-of-packaged-food-products): Limited awareness of the different levels of food processing (from minimal to ultra) and their impacts on nutritional value and dietary health => dietary guidelines should emphasize preference for fresh or minimally processed foods and the avoidance of ultra-processed foods. The food manufacturing industry should develop or improve alternatives to ultra-processing of food.
+   - [5.3](#solution-53-emphasis-on-appropriate-food-processing-in-all-food-and-nutrition-policies): Limited awareness of the different levels of food processing (from minimal to ultra) and their impacts on nutritional value and dietary health => preference for fresh or minimally processed foods and the avoidance of ultra-processed foods on dietary guidelines
 6. **Government policy/legislation**
    - [6.1]: consumer engagement as a force for innovation is underutilized => strength the role of consumers and consumer rights in policy-making and standard-setting
 7. **Increasing supply of non-meat protein and crops diversification**
