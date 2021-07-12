@@ -1,8 +1,9 @@
 * [KBase](/README.md)
 * FSS21
-  * Documents
     * [Scientific Group](/fss2021/sg/README.md)
-    * [Publication and Reports](/fss2021/pr/fsr/1-swr/bbposg.md)
+  * Publication and Reports
+    * [Food Systems Research](/fss2021/pr/fsr/README.md)
+    * [Action Tracks Related Papers](/fss2021/pr/atrp/README.md)
   * Events
   * [Community](/fss2021/community/README.md)
 * [MOOCS](/moocs/readme.md)

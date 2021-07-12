@@ -1,5 +1,5 @@
 # FSS2021 > 1. Systems-wide research
-> Briefs by Partners of Scientific Group
+> **Briefs by Partners of Scientific Group**
 
 ## In the age of pandemics, connecting food systems and health: a Global One Health approach
 ### 1. callenges
@@ -36,3 +36,6 @@ These changes create opportunities for the utilization of biomass to increase re
 The bioeconomy concept as a development approach has similarities and differences with concepts of the circular and green economies, which are included as approaches to sustainable development.
 All are multidimensional concepts, having as goals: the reduction of greenhouse gas (GHG) emissions, energy and material use efficiency, responsible consumption, the importance of social inclusion and the relevance of innovation. 
 
+> **Reports/books**
+
+> **Journal Publications**
