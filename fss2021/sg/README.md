@@ -2,9 +2,11 @@
 [link](https://sc-fss2021.org/materials/scientific-group-reports-and-briefs/)
 
 These papers are shared to provide information and facilitate discussion for transparent and evidence-based Summit preparations.
+- Science and Innovations for Food Systems Change: Opportunities for the UN Food Systems Summit (5 July 2021)
 - ✅ [Healthy diet: A definition for the United Nations Food Systems Summit 2021 (March 2021)](#healthy-diet-a-definition-for-the-united-nations-food-systems-summit-2021-march-2021)
 - ✅ [Food Systems – Definition, Concept and Application for the UN Food Systems Summit (March 2021)](#food-systems--definition-concept-and-application-for-the-un-food-systems-summit-march-2021)
-- [The True Cost and True Price of Food (June 1, 2021)](#the-true-cost-and-true-price-of-food-june-1-2021)
+- 👁️‍🗨️ [The True Cost and True Price of Food (June 1, 2021)](#the-true-cost-and-true-price-of-food-june-1-2021)
+- Achieving Zero Hunger by 2030 – A Review of Quantitative Assessments of Synergies and Tradeoffs amongst the UN Sustainable Development Goals (May 26, 2021)
 
 **Action Track Papers**:
 - ✅ [Track 1](#track-1): `Ensuring Access to Safe and Nutritious Food for All Through Transformation of Food Systems (March 2021)`
@@ -201,6 +203,12 @@ In the medium and long term, governments can look at ways to integrate TCA in ec
 - product labelling
 
 ### Annex 1: How does True Cost Accounting work?
+A TCA assessment can be done at different levels: a food system, a policy, a region, an organisation, an investment or a product. For each type of analysis, various frameworks exist.
+A TCA assessment starts by defining the goal, scope and unit of analysis (functional unit). The relevant externalities have to be identified and assessed, qualitatively or quantitatively. Quantification starts with measuring or assessing inputs and outputs, the direct measurable effects of production and consumption. Outputs have to be translated to impacts via impact pathways.
+The final quantification step is the attribution of impact to the functional unit (CO2-equivalents, litres of scarce blue water, etc).
+
+After externalities have been quantified, they can be valued, in monetary terms or otherwise, so that they are expressed in a common unit. To capture value not reflected in market prices, a TCA assessment requires an (implicit or explicit) measure of welfare.
+
 
 
 ## Track 1
@@ -352,11 +360,11 @@ Action Track 2 recognises that current food usage patterns, often characterised 
 A healthy diet is health‐promoting and disease‐preventing. It provides adequacy without excess, of nutrients and health promoting substances from nutritious foods and avoids the consumption of health‐harming substances.
 It must supply adequate calories for energy balance, and include a wide variety of high quality and safe foods across a diversity of food groups to provide the various macronutrients, micronutrients and other food components needed to lead an active and healthy and enjoyable life.
 
-Consumer demand, availability, affordability and accessibility are important drivers of dietary patterns. It is essential that these four aspects are considered simultaneously when pursuing dietary shifts/
+Consumer demand, availability, affordability and accessibility are important drivers of dietary patterns. It is essential that these four aspects are considered simultaneously when pursuing dietary shifts.
 
 National food-based dietary guidelines provide context-specific advice and principles on healthy diets and lifestyles, which are rooted on sound evidence, and respond to a country’s public health and nutrition priorities, food production and consumption patterns, sociocultural influences, food composition data, and accessibility, among other factors.
 
-However, there can be wide variation in inclusion of and recommendations for other foods. Only 17% of food based dietary guidelines make specific recommendations about quantities of meat/egg/poultry/animal source food to consume (20% make specific recommendations about fish), and only three countries (Finland, Sweden and Greece) make specific quantitative recommendations to limit red meat. Only around a quarter of food based dietary guidelines recommend limiting consumption of ultra‐processed foods, yet this is emerging as one of the most significant dietary challenges around the world.
+However, there can be wide variation in inclusion of and recommendations for other foods. Only 17% of food based dietary guidelines make specific recommendations about quantities of meat/egg/poultry/animal source food to consume (20% make specific recommendations about fish), and only three countries (Finland, Sweden and Greece) make specific quantitative recommendations to limit red meat. Only around a quarter of food based dietary guidelines recommend limiting consumption of ultra-processed foods, yet this is emerging as one of the most significant dietary challenges around the world.
 
 Adherence with national food based dietary guidelines and recommendations around the world is low.
 No regions globally have an average intake of fruits, whole grains, or nuts and seeds in line with recommendations and only central Asia meets the recommendations for vegetables. In contrast, the global (and several regional) average intake of red meat, processed meat and sugar‐sweetened beverages exceeds recommended limits.
