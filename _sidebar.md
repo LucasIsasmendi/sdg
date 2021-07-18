@@ -6,7 +6,8 @@
     * [Action Tracks Related Papers](/fss2021/pr/atrp/README.md)
   * Events
   * [Community](/fss2021/community/README.md)
-* [MOOCS](/moocs/readme.md)
-* Organizaztions
-* [True Cost Accounting](/tca.md)
+* [MOOCs](/moocs/readme.md)
 * [Books](/books.md)
+* [True Cost Accounting](/tca.md)
+* Publications
+* [Organizations](/organizations/README.md)

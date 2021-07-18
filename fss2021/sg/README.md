@@ -1,10 +1,10 @@
 # FSS2021 > Scientific Group Reports
-[link](https://sc-fss2021.org/materials/scientific-group-reports-and-briefs/)
+[source link](https://sc-fss2021.org/materials/scientific-group-reports-and-briefs/)
 
 These papers are shared to provide information and facilitate discussion for transparent and evidence-based Summit preparations.
 - Science and Innovations for Food Systems Change: Opportunities for the UN Food Systems Summit (5 July 2021)
 - ✅ [Healthy diet: A definition for the United Nations Food Systems Summit 2021 (March 2021)](#healthy-diet-a-definition-for-the-united-nations-food-systems-summit-2021-march-2021)
-- ✅ [Food Systems – Definition, Concept and Application for the UN Food Systems Summit (March 2021)](#food-systems--definition-concept-and-application-for-the-un-food-systems-summit-march-2021)
+- ✅ [Food Systems – Definition, Concept and Application for the UN Food Systems Summit (March 2021)](#food-systems-definition-concept-and-application-for-the-un-food-systems-summit-march-2021)
 - 👁️‍🗨️ [The True Cost and True Price of Food (June 1, 2021)](#the-true-cost-and-true-price-of-food-june-1-2021)
 - Achieving Zero Hunger by 2030 – A Review of Quantitative Assessments of Synergies and Tradeoffs amongst the UN Sustainable Development Goals (May 26, 2021)
 
@@ -14,6 +14,8 @@ These papers are shared to provide information and facilitate discussion for tra
 - ✅ [Track 3](#track-3): `Boost Nature Positive Production at Sufficient Scale (April 2021)`
 - ✅ [Track 4](#track-4): `Advance Equitable Livelihoods (March 2021)`
 - ✅ [Track 5](#track-5): `Building Resilience to Vulnerabilities, Shocks and Stresses (March 2021)`
+
+****
 
 ## Healthy diet: A definition for the United Nations Food Systems Summit 2021 (March 2021)
 Diets are combinations of foods consumed by individuals of a given time. The specific combination of foods that make up healthy diets, however, is context specific and depends on many cultural, economic, and other factors.
@@ -74,6 +76,8 @@ There will always be tensions between the indicative or guiding principles and a
 
 The FAO and WHO have now set out a series of guiding principles to achieve contextually appropriate sustainable, affordable, healthy diets (15,16)
 
+****
+
 ## Food Systems – Definition, Concept and Application for the UN Food Systems Summit (March 2021) 
 
 `Transformation` is a never-ending process in food systems. `Transition` is the movement from one state to another. And `evolution` is the process of change. These are not interchangeable terminologies. Most food systems need all three. 
@@ -100,6 +104,8 @@ In addition, reduction of risks and the fostering of **food systems’ resilienc
 
 ### Concluding Remarks 
 Food systems transformation has to have a perspective on where we want to be headed. We then need to understand what is entailed in the transition to desirable food systems, and how to facilitate the evolution of such food systems. Thus, a vision for food systems transformation is required, and pursued with a strong sense of urgency. 
+
+****
 
 ## The True Cost and True Price of Food (June 1, 2021)
 One of the central problems of current food systems is that many of the costs of harmful foods are externalized, i.e. are not reflected in market prices (it will be 3x expensive). At the same time, the benefits of healthful foods are not appreciated. Due to externalities, sustainable and healthy food is often less affordable to consumers and profitable for businesses than unsustainable and unhealthy food. 
@@ -209,7 +215,7 @@ The final quantification step is the attribution of impact to the functional uni
 
 After externalities have been quantified, they can be valued, in monetary terms or otherwise, so that they are expressed in a common unit. To capture value not reflected in market prices, a TCA assessment requires an (implicit or explicit) measure of welfare.
 
-
+****
 
 ## Track 1
 **`Ensuring Access to Safe and Nutritious Food for All Through Transformation of Food Systems (March 2021)`**
@@ -339,6 +345,8 @@ Levers for change:
 - Capacity-building, property rights, technology development, transfer and deployment and enabling financial mechanisms across the food system can support livelihoods and increase incomes. Greater cooperation with regard to trade could overcome constraints and barriers.
 
 Safe and nutritious food for all requires a transformation of food systems, changing both supply and demand of food in differentiated ways across world regions: bridging yield gaps and improving livestock feed conversion, largely through agro-ecological practices and agroforestry, deploying at scale soil carbon sequestration and agricultural greenhouse gas abatement, reducing food losses and wastes, as well as over-nourishment and changing the diets of wealthy populations. Global food systems sustainability also requires to halt the expansion of agriculture into fragile ecosystems while restoring degraded forests, fisheries, rangelands, peatlands and wetlands.
+
+****
 
 ## Track 2
 **`Shift to Healthy and Sustainable Consumption Patterns (April 2021)`**
@@ -498,6 +506,8 @@ Transitioning towards healthy diets from sustainable food systems at the country
 
 The role of science and innovation will be essential for deploying these interventions at scale and at low costs, and for minimising the potential trade‐offs arising. Transparent multi‐stakeholder dialogues will be key at all stages of planning the appropriate transition pathways towards our desired global goals of healthy food, healthy ecosystems and prosperity for all.
 
+****
+
 ## Track 3
 **`Boost Nature Positive Production at Sufficient Scale (April 2021)`**  
 The overall goal of Action Track 3 is to reconcile the need for the production system to meet the demands from growing populations and rising prosperity with the necessity of restoring the environment, improving the quality of soil, conserving biodiversity, and sustainably managing land, water and other natural resources. 
@@ -578,6 +588,8 @@ The seven calls for action can provide guidance to ensure an integrated, systemi
 ### 6. Conclusions
 Food systems across the world are driving habitat and biodiversity loss, land and water degradation, and greenhouse gas emissions. These phenomena, in turn, undermine theproductivity, sustainability and resilience of food systems. This vicious circle can be broken if we take several fundamental steps to realign our food, feed and fiber production to achieve nature-positive agricultural production at scale. 
 
+****
+
 ## Track 4
 **`Advance Equitable Livelihoods (March 2021)`**  
 The task of Action Track 4 is to explore approaches to Food systems transformation to ensure equitable livelihoods for producers, businesses, workers across the food system and consumers, with particular emphasis on addressing inequalities and power imbalances.
@@ -648,6 +660,8 @@ We believe therefore, that enhancing equitable livelihoods will require solution
 - **Realize the potential of science, innovation, technology, and evidence to favour equitable livelihoods**
   - New approaches are instrumental to revitalize Indigenous food systems and to produce, process, and consume food in culturally relevantand ecologically sustainable ways
   - Improve the availability, quality, accessibility, and use of data that can map and inform actions to reduce inequalities in the food systems.
+
+****
 
 ## Track 5
 **`Building Resilience to Vulnerabilities, Shocks and Stresses (March 2021)`**
@@ -721,3 +735,4 @@ resilience has successfully been used as a conceptual framework to improve food 
 - there is no single game-changing solution that solves the range of different food security challenges
 - using resilience as a systems approach to support the conceptualization of the food security challenge and the integration of actors, organizations and agencies to develop context-specific solutions offers a promising way forward
 
+****
