@@ -5,7 +5,7 @@ These papers are shared to provide information and facilitate discussion for tra
 - Science and Innovations for Food Systems Change: Opportunities for the UN Food Systems Summit (5 July 2021)
 - ✅ [Healthy diet: A definition for the United Nations Food Systems Summit 2021 (March 2021)](#healthy-diet-a-definition-for-the-united-nations-food-systems-summit-2021-march-2021)
 - ✅ [Food Systems – Definition, Concept and Application for the UN Food Systems Summit (March 2021)](#food-systems-definition-concept-and-application-for-the-un-food-systems-summit-march-2021)
-- 👁️‍🗨️ [The True Cost and True Price of Food (June 1, 2021)](#the-true-cost-and-true-price-of-food-june-1-2021)
+- ✅ [The True Cost and True Price of Food (June 1, 2021)](#the-true-cost-and-true-price-of-food-june-1-2021)
 - Achieving Zero Hunger by 2030 – A Review of Quantitative Assessments of Synergies and Tradeoffs amongst the UN Sustainable Development Goals (May 26, 2021)
 
 **Action Track Papers**:
@@ -213,7 +213,36 @@ A TCA assessment can be done at different levels: a food system, a policy, a reg
 A TCA assessment starts by defining the goal, scope and unit of analysis (functional unit). The relevant externalities have to be identified and assessed, qualitatively or quantitatively. Quantification starts with measuring or assessing inputs and outputs, the direct measurable effects of production and consumption. Outputs have to be translated to impacts via impact pathways.
 The final quantification step is the attribution of impact to the functional unit (CO2-equivalents, litres of scarce blue water, etc).
 
-After externalities have been quantified, they can be valued, in monetary terms or otherwise, so that they are expressed in a common unit. To capture value not reflected in market prices, a TCA assessment requires an (implicit or explicit) measure of welfare.
+After externalities have been quantified, they can be valued, in monetary terms or otherwise, so that they are expressed in a common unit. To capture value not reflected in market prices, a TCA assessment requires an implicit or explicit measure of welfare (well-being, income, living wage, environmental limits).
+
+### Annex 2: Summary of estimates of previous studies for externalities and food systems changes
+- Food systems as a whole
+  - $10 trillion: estimate of the market value in 2018
+  - $11.9 trillion: Inefficiencies and environmental and health social costs
+- Biodiversity loss
+  - 60%-70% of total global biodiversity loss
+  - 35% loss of wetlands since 1970
+  - 24% global forest disturbance
+- 61% depletion of fish stocks
+- Emissions of GHG costs
+  - 13% agriculture land use change ($0.27 trillions)
+  - current food consumption patterns in 2030 $1.7 trillion
+  - **CHANGE**: Adoption of organic agriculture, vegan and vegetarian diets to reduce greenhouse gas emissions possibly by 41-74% in 2030 
+- Food loss and waste
+  - 3–5 % of global warming impacts, more than 20 % of biodiversity pressure, and 30 % of all of the world’s agricultural land
+  - Food loss and waste greenhouse gas emissions of meat (poultry, bovine, goat, mutton, and swine) is estimated at 34–38% of all agricultural production-phase greenhouse gas emissions
+- Food safety
+- Inadequate diets and malnutrition
+  - Globally, diet-related health costs are projected to reach $1.3 trillion per year in 2030
+  - **CHANGE**: 
+    - Transitioning toward more plant-based diets that are in line with standard dietary guidelines could reduce global mortality by 6–10% and food-related greenhouse gas emissions by 29–70%
+    - Transformation to healthy diets by 2050 will require substantial dietary shifts, including a greater than 50% reduction in global consumption of unhealthy foods, such as red meat and sugar, and a greater than 100% increase in consumption of healthy foods, such as nuts, fruits, vegetables, and legumes. However, the changes needed differ significantly by region
+- Land degradation: food systems contribute to 33% of degraded soils
+- Land-use change: 
+  - lead to 8-10% of GHG emissions
+  - 25% of land was degraded due to poor management practices
+  - Carbon emissions due to land-use changes are estimated to range from $15-24 billion
+- Soil degradation and erosion: 33% of the earth’s land surface is affected by some type of soil degradation
 
 ****
 
