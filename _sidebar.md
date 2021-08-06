@@ -8,6 +8,7 @@
   * [Community](/fss2021/community/README.md)
 * [MOOCs](/moocs/readme.md)
 * [Books](/books.md)
-* [True Cost Accounting](/tca.md)
+* [Podcasts](/podcasts/README.md)
+* [Research Topics](/research-topics.md)
 * Publications
 * [Organizations](/organizations/README.md)
