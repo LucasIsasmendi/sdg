@@ -10,6 +10,23 @@
 - [Business](#business)
 - [Specializations](#specializations)
 
+## u.lab
+### Leading Change in Times of Disruption
+[edx](https://www.edx.org/course/ulab-leading-change-in-times-of-disruption) 6 weeks ~ ⏳ 1 hour per week
+
+Learn how to lead change in social systems by exploring two root questions of creativity: Who is my Self? What is my Work?
+
+###  Leading From the Emerging Future
+[edx](https://www.edx.org/course/ulab-leading-from-the-emerging-future) 14 weeks ~ ⏳ 4-6 hours per week
+
+While you can complete the course at your own pace, the instructors will facilitate Live Sessions on a monthly basis
+1. Co-Initiating
+2. Co-Sensing
+3. Presencing
+4. Co-Creating
+5. Co-Evolving
+6. The Journey Ahead
+
 ## General
 - 👉 [Sustainability of Social-Ecological Systems: the Nexus between Water, Energy and Food](/moocs/general/sos-es.md) ~ Universitat Autònoma de Barcelona
 - 👉 [The Sustainable Development Goals – A global, transdisciplinary vision for the future](/moocs/general/sdg-gtvf.md) ~ University of Copenhagen (10 hours)
@@ -77,7 +94,62 @@
 
 ## Food
 - ✔️ [Transformation of the Global Food System](/moocs/food/totgfs/README.md) ~ University of Copenhagen
+- 👁️‍🗨️ [Sustainable Global Food Systems](/moocs/food/sgfs/README.md) ~ University of Edinburgh
+- 👁️‍🗨️ [Plant Based Diets: Food for a Sustainable Future](/moocs/food/pbdffasf/README.md) ~ University and Research Wageningen 
 
+
+### XSeries: Food Security and Sustainability
+[edx](https://www.edx.org/xseries/food-security-sustainability)  
+This is a series of 3 courses that can be taken in any order.
+- [Sustainable Food Security: Crop Production](https://www.edx.org/course/sustainable-food-security-crop-production) 
+- ⏳ 6 weeks - 6–8 hours per week
+- Starts `Sep 5` -> Ends `Oct 26`
+- Syllabus:
+  1. Introduction
+  2. Potential production
+  3. Water limited production
+  4. Nutrient limited production
+  5. Actual production
+  6. Synthesis
+- [Sustainable Food Security: The value of systems thinking](https://www.edx.org/course/sustainable-food-security-the-value-of-systems-thi) 
+- ⏳ 6 weeks - 6–8 hours per week
+- Starts `Sep 5` -> Ends `Oct 26`
+- Syllabus:
+  1. Complexity of sustainable food production systems
+  2. Introduction to systems thinking
+  3. Productivity indicators of food production systems
+  4. Environmental indicators of food production systems
+  5. Trade-offs between sustainability indicators
+  6. Integration module with two case studies
+- [Sustainable Food Security: Food Access](https://www.edx.org/course/sustainable-food-security-food-access) 
+- ⏳ 6 weeks - 6–8 hours per week
+- Starts `Sep 5` -> Ends `Oct 26`
+- Syllabus:
+  1. Setting the scene
+  2. Households accessing and allocating food
+  3. Traders arranging food access in local markets
+  4. National policy makers governing food access
+  5. Negotiators setting international trade rules for food access
+  6. connecting the ingredients
+
+### DoaneX's Sustainable Agribusiness MicroMasters® Program
+[edx](https://www.edx.org/micromasters/doanex-sustainable-agribusiness) 
+What you will learn
+- Agricultural Growth and Productivity Analysis
+- Sustainable Agrifood Supply Chain Management
+- Global Agri-food, Livestock, and Crop Systems Solution
+- Agricultural Economic Modeling Tools
+- Environmental and Natural Resources Economics
+- Food Futures and Market
+
+7 graduate-level courses:
+1. [Agri-Food Systems Analysis](https://www.edx.org/course/agri-food-systems-analysis) This course will provide an introduction to critical skills for understanding and evaluating sustainability metrics in relation to Agri-Food systems. ⏳ 8 weeks ~ 10-15 hours per week
+2. [Sustainable Agri-food Marketing](https://www.edx.org/course/sustainable-agri-food-marketing): This course examines the principles and practices of sustainable marketing in the agri-food industry and marketing’s role in the creation and management of relationships with customers and other stakeholders. ⏳ 8 weeks ~ 10-15 hours per week
+3. [Environmental and Natural Resources Economics](https://www.edx.org/course/environmental-and-natural-resources-economics): Economic analysis of agricultural problems associated with use of renewable and nonrenewable environmental and natural resource. ⏳ 8 weeks ~ 10-15 hours per week
+4. [Agricultural Economic Modeling Tools](https://www.edx.org/course/agricultural-economic-modeling-tools): Learn how to utilize Agriculture Modeling tools to achieve economic and sustainability outcomes. ⏳ 8 weeks ~ 10-15 hours per week
+5. [Global Food Futures and Agri-food Systems Solutions](https://www.edx.org/course/global-food-futures-and-agri-food-systems-solution): Learners will analyze proposed solutions to some of the most pressing agri-food challenges and participate in creating innovative solutions to build a global food system in the face of rapidly changing climates, minimizing harm to Earth’s natural systems.  ⏳ 8 weeks ~ 10-15 hours per week
+6. Sustainable Agri-food Supply Chain Management: Learn how to manage a sustainable agri-food chains that operates in a manner that exploits and optimizes the synergies among environmental protection, social fairness and economic growth.
+7. [Sustainable Agribusiness Comprehensive Exam](https://www.edx.org/course/sustainable-agribusiness-comprehensive-exam): Take the Comprehensive Exam and demonstrate the knowledge and skills acquired in the Sustainable Agribusiness MicroMasters program to earnyour DoaneX MicroMasters credential. ⏳ 8 weeks ~ 10-15 hours per week
 
 ### The Economics of Agro-Food Value Chains
 [coursera link](https://www.coursera.org/learn/valuechains) - Weeks:
@@ -102,6 +174,13 @@
 3. Innovation in Agribusiness
 4. Developing new business concepts
 5. FINAL PROJECT
+
+### Global Postharvest Loss Prevention: Fundamentals, Technologies, and Actors
+[coursera](https://www.coursera.org/learn/postharvest) - ⏳ 13 hours to complete
+1. Problem: Global Postharvest Loss
+2. Causes: Major Causes & Encounters for PHL
+3. Solutions: A Prevention Framework for PHL
+4. Actors: A Network of Global Stakeholders
 
 ## Nutrition
 ### Design and monitor nutrition-sensitive agriculture and food systems programmes
@@ -208,6 +287,9 @@
 5. Chemicals Policy: What do we do about chemicals & health?
 6. Case Studies
 
+### Recommender Systems: Behind the Screen
+[edx](https://www.edx.org/course/recommender-systems-behind-the-screen) 6 weeks ~ ⏳ 4-6 hours per week
+
 ## Business
 - [Sustainable Digital Innovation](./business/sdi.md) ~ EIT Digital (13 hours)
 
@@ -226,6 +308,15 @@ Syllabus:
 2. Sustainable Product Design and Market Research
 3. Sustainable Value Chains and Communications
 4. BOTTOM-UP ENTERPRISE
+
+### Strategy and Sustainability
+[coursera](https://www.coursera.org/learn/strategy-sustainability)
+1. Course Overview & Week 1: Business & the Environment
+2. Week 2 - Strategic Issues
+3. Week 3 - Strategic Options
+4. Week 4 - Environmental Interest Groups
+5. Week 5 - Differences Across Industries and Around the World
+6. Week 6 - How to develop a sustainability strategy
 
 ## Specializations
 ### Become a Sustainable Business Change Agent Specialization
